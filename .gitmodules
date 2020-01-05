@@ -1,0 +1,15 @@
+[submodule "freirepmp"]
+	path = freirepmp
+	url = https://fhcflx@github.com/fhcflx/freirepmp.git
+[submodule "macedoakp"]
+	path = macedoakp
+	url = https://fhcflx@github.com/fhcflx/macedoakp.git
+[submodule "trindadekm"]
+	path = trindadekm
+	url = https://fhcflx@github.com/fhcflx/trindadekm.git
+[submodule "santoskk"]
+	path = santoskk
+	url = https://fhcflx@github.com/fhcflx/santoskk.git
+[submodule "albuquerquejc"]
+	path = albuquerquejc
+	url = https://fhcflx@github.com/fhcflx/albuquerquejc.git
