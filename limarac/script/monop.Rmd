@@ -1,0 +1,1165 @@
+
+**UNIVERSIDADE FEDERAL DO CEARÁ**
+
+**faculdade de farmácia, odontologia e enfermagem**
+
+**CURSO DE farmácia**
+
+
+
+
+
+**RAYRA AGUIAR CAMPOS LIMA**
+
+
+
+
+
+**EVENTOS ADVERSOS da quimioterapia ANTICÂNCER EM PACIENTES PEDIÁTRICOS COM tumores DO SISTEMA NERVOSO CENTRAL: ESTUDO RETROSPECTIVO**
+
+
+
+
+
+
+
+
+
+**FORTALEZA**
+
+**201**** 6 ****6**
+
+(FICHA CATALOGRÁFICA)
+
+RAYRA AGUIAR CAMPOS LIMA
+
+
+
+
+
+
+
+**EVENTOS ADVERSOS da quimioterapia ANTICÂNCER EM PACIENTES PEDIÁTRICOS COM tumores DO SISTEMA NERVOSO CENTRAL: ESTUDO RETROSPECTIVO**
+
+
+
+Monografia apresentada ao Curso de Farmácia da Faculdade de Farmácia, Odontologia e Enfermagem da Universidade Federal do Ceará, como requisito parcial para obtenção do Título de Bacharel em Farmácia.
+
+Orientadora: Profa. Dra. Juvenia Bezerra Fontenele.
+
+Coorientador: Francisco Hélder Cavalcante Félix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORTALEZA
+
+2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dados Internacionais de Catalogação na Publicação
+
+Universidade Federal do Ceará
+
+Biblioteca de Ciências da Saúde
+
+
+
+L71e        Lima, Rayra Aguiar Campos.
+
+Eventos adversos da quimioterapia anticâncer em pacientes pediátricos com tumores do sistema nervoso central: estudo retrospectivo./ Rayra Aguiar Campos Lima. – 2016.
+
+60 f.: il.
+
+Monografia (graduação) – Universidade Federal do Ceará, Faculdade de Farmácia, Odontologia e Enfermagem, Departamento de Farmácia, Curso de Farmácia, Fortaleza, 2016.
+
+Orientação: Profa. Dra. Juvenia Bezerra Fontenele.
+
+Coorientação: Francisco Hélder Cavalcante Félix.
+
+
+
+1. Quimioterapia. 2. Efeitos Colaterais e Reações Adversas Relacionados a Medicamentos. 3. Neoplasias Encefálicas. I. Título.
+
+                                                                        CDD 618.0461
+
+
+
+
+
+RAYRA AGUIAR CAMPOS LIMA
+
+
+
+
+
+**EVENTOS ADVERSOS da quimioterapia ANTICÂNCER EM PACIENTES PEDIÁTRICOS COM tumores DO SISTEMA NERVOSO CENTRAL: ESTUDO RETROSPECTIVO**
+
+
+
+Monografia apresentada ao Curso de Farmácia da Faculdade de Farmácia, Odontologia e Enfermagem da Universidade Federal do Ceará, como requisito parcial para obtenção do Título de Bacharel em Farmácia.
+
+Aprovada em 27/01/2016
+
+BANCA EXAMINADORA
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Profa. Dra. Juvenia Bezerra Fontenele (Orientadora)
+
+Universidade Federal do Ceará (UFC)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Profa. Dra. Nirla Rodrigues Romero
+
+Universidade Federal do Ceará (UFC)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Profa. Dra. Ângela Maria de Souza Ponciano
+
+Universidade Federal do Ceará (UFC)
+
+
+
+A **GRADECIMENTOS**
+
+
+
+A Deus, por me dar forças para concluir o curso.
+
+Aos meus pais, que custearam meus estudos e, em especial minha mãe, por ser a pessoa mais importante da minha vida, meu apoio em todas as horas e em todos os aspectos da minha vida.
+
+Ao meu marido, pela extrema paciência e auxílio, tanto neste trabalho, como na vida.
+
+À Profa. Dra. Juvenia Bezerra Fontenele, pela orientação, paciência e por ser aquela pessoa que segura na sua mão e diz &quot;vamos, vai dar certo!&quot;.
+
+Ao Dr. Francisco Hélder Cavalcante Félix, médico do Hospital Infantil Albert Sabin, pela orientação e por tornar este trabalho possível.
+
+Às Professoras Ângela Maria de Souza Ponciano e Nirla Rodrigues Romero por aceitarem participar da banca examinadora deste trabalho e pelas valiosas sugestões.
+
+Às melhores amigas Chamini Lino, Emanuela Batista, Juliana Arruda e Larissa Coelho, pelo apoio em todos os aspectos durante os muitos anos de curso.
+
+Às colegas de pesquisa, Kelly Kaliana dos Santos e Paula Maria Pereira Freire, pelo companheirismo e auxílio, tanto na pesquisa, quanto nas adversidades e entraves que enfrentamos no hospital, em decorrência deste trabalho. Agradeço em especial à Paula, pela sua ajuda em momentos difíceis, de cunho pessoal e emocional, e também em momentos difíceis na realização do trabalho de pesquisa.
+
+Aos funcionários do Centro Pediátrico do Câncer do Hospital Infantil Albert Sabin, por permitirem e auxiliarem na nossa pesquisa.
+
+
+
+
+
+
+
+
+
+**RESUMO**
+
+ No Brasil, as neoplasias figuram entre as cinco principais causas de morte não violenta. A quimioterapia (QT) antineoplásica pode ser utilizada antes da ressecção cirúrgica, ou depois, junto à radioterapia (RT). Os eventos adversos da QT dependem de fatores, como combinação e mecanismo de ação dos fármacos; localização e capacidade metastática do tumor; idade do paciente e comorbidades. A finalidade deste trabalho é avaliar a prevalência desses eventos nos pacientes com tumores do Sistema Nervoso Central (SNC) tratados com QT no Centro Pediátrico do Câncer do Hospital Infantil Albert Sabin (CPC-HIAS). O mesmo foi realizado através de estudo retrospectivo dos prontuários de pacientes tratados no CPC-HIAS, e posterior análise dos resultados, como frequência de ocorrência dos principais eventos adversos registrados. Foram incluídos pacientes de 0-18 anos com neoplasias malignas do SNC que iniciaram tratamento entre janeiro de 2007 e dezembro de 2010. Além dos eventos adversos, foram estudados também as modalidades de tratamento (QT, RT e cirurgia). Para categorizar os dados, foi utilizada a classificação traduzida dos Critérios Comuns de Toxicidade, do _National Cancer Institute_. No período do estudo, 145 pacientes foram diagnosticados com tumor primário do SNC no CPC-HIAS, dos quais 91 receberam QT. Oito protocolos de QT foram utilizados, sendo os mais frequentes COG-A9952 (47 pacientes), SLAOP (19 pacientes) e SOBOPE 1998 (15 pacientes, que receberam QT/RT). Registraram-se eventos adversos conhecidos, durante a QT, em 53 pacientes (58,2% do total de 91), sendo os mais comuns: toxicidade hematológica (28,6%) e infecção (24,2%). Quinze pacientes (16,5%) foram a óbito por complicação do tratamento com quimioterápico ou cirúrgico. No ensaio CCG-9961 a perda auditiva grave pode ser decorrente de altas doses cumulativas de cisplatina. Os resultados demonstram frequência de eventos menor que a esperada quando comparada com as publicações dos ensaios clínicos, provavelmente por ser um estudo retrospectivo e devido à subnotificação. A ocorrência de sangramento cerebral pode estar relacionada ao uso de ácido valpróico como antiepilético profilático. Uma elevada quantidade de pacientes (16,5%) faleceu, possivelmente, em decorrência dos eventos adversos, o que pode estar associado aos protocolos de tratamento da SLAOP e SOBOPE 1998. O elevado número de óbitos contrasta com o número relativamente baixo de eventos adversos, o que leva a crer que estes foram subnotificados.
+
+**Palavras-chave:** Eventos Adversos (Efeitos Colaterais e Reações Adversas Relacionadas a Medicamentos**)**. Quimioterapia. Neoplasias Encefálicas.
+
+**ABSTRACT**
+
+In Brazil, tumors are among the five leading causes of non-violent death. Antineoplastic chemotherapy (CT) may be used prior to surgical resection or later, along with radiotherapy (RT). Adverse events of CT depends on factors such as CT intensity, drug combination and mechanism of action, tumor&#39;s location and behavior, patient&#39;s age and comorbidities. The purpose of this study was to assess the prevalence of these events in CNS tumor patients treated with CT protocols, at Pediatric Cancer Center, Hospital Infantil Albert Sabin (HIAS). Frequency of adverse events was analyzed. The study included patients with malignant tumors of the CNS aged 0-18 years, who started treatment between January 2007 and December 2010. In addition to the adverse events, treatment modalities were also studied (CT, RT and surgery). To categorize the data, it was used the translated Common Toxicity Criteria, from the National Cancer Institute. During the study period, 145 patients aged 0-18 years were diagnosed with primary CNS tumor at HIAS, of which 91 received chemotherapy. Eight CT protocols were used, the most frequent were COG-A9952 (47 patients), SLAOP (19 patients) and SOBOPE 1998 (15 patients, who received CT/RT). Adverse events during chemotherapy occurred in 53 patients (58.2% of 91), the most common being hematologic toxicity (28.6%) and infection (24.2%). Fifteen patients (16.5%) died due to treatment complications,. Severe hearing loss may have occurred due to high cumulative doses of cisplatin. The results showed a lower frequency of adverse events than expected by clinical trials publications, probably due to its retrospective nature and underreporting. The occurrence of cerebral bleeding may be related to the use of valproic acid as a prophylactic antiepileptic, which should be reevaluated. A great number of possibly treatment-related deaths did occur, and this may be related to the use of SLAOP and SOBOPE 1998 protocols. The high number of purported treatment-related deaths contrasts with the relatively low number of adverse events, which suggests the underreporting of adverse events.
+
+**Keywords:** Adverse Events (Drug-Related Side Effects and Adverse Reactions). Drug therapy. Brain Neoplasms.
+
+
+
+**LISTA DE ABREVIATURAS E SIGLAS**
+
+| AAP | American Academy of Pediatrics |
+| --- | --- |
+| ADR | Adverse drug reactions |
+| ANVISA | Agência Nacional de Vigilância Sanitária |
+| CBTRUS | Central Brain Tumor Registry of the United States |
+| CCG | Children&#39;s Cancer Group (antiga denominação do COG) |
+| CCT | Critérios Comuns de Toxicidade |
+| CEATENF | Centro de Estudos em Atenção Farmacêutica |
+| CEP | Comitê de Ética em Pesquisa |
+| CICI-3 | Classificação Internacional do Câncer na Infância 3ª edição |
+| CID | Classificação Internacional das Doenças |
+| CID-9 | Classificação Internacional das Doenças, 9ª revisão |
+| CID-O-3 | Classificação Internacional das Doenças para Oncologia 3ª edição |
+| CNMM | Centro Nacional de Monitorização de Medicamentos |
+| COG | Clinical Oncology Group |
+| CONEP | Comissão Nacional de Ética em Pesquisa |
+| COSTART | Coding Symbols for a Thesaurus of Adverse Reaction Terms |
+| CPC-HIAS | Centro Pediátrico do Câncer do Hospital Infantil Albert Sabin |
+| CTCAE | Critérios de Terminologia Comum para Eventos Adversos (ou Critérios Comuns de Toxicidade) |
+| CYP | Cytochrome P450 (citocromo P450, enzimas hepáticas) |
+| DHFR | Enzima diidrofolato redutase |
+| dL | Decilitro |
+| DNA | Ácido desoxirribonucleico |
+| EA | Evento adverso |
+| EUA | Estados Unidos da América |
+| FCE | Fluido cérebro-espinhal |
+| FDA | Food and Drug Administration (EUA) |
+| FH4 | Tetraidrofolato |
+| FV | Farmacovigilância |
+| g | Grama |
+| GPUIM | Grupo de Prevenção ao Uso Indevido de Medicamentos |
+| Hb | Hemoglobina |
+| HIAS | Hospital Infantil Albert Sabin |
+| ICE | Combinação de ifosfamida, carboplatina e etoposido |
+| INCA | Instituto Nacional de Câncer José Alencar Gomes da Silva |
+| m² | Metro quadrado, área superficial corporal |
+| MedDRA | Medical Terminology for Drug Regulatory Authorities |
+| MeSH | Medical Subject Headings |
+| mg | Miligrama |
+| MIPs | Medicamentos isentos de prescrição |
+| OMS | Organização Mundial de Saúde (tradução de World Health Organization) |
+| OPAS | Organização Pan-americana de Saúde |
+| PET | Pósitron emission tomography (tomografia de emissão de pósitrons) |
+| PRM | Problemas relacionados a medicamentos |
+| QT | Quimioterapia |
+| RAM | Reação adversa a medicamento |
+| RDC | Resolução da Diretoria Colegiada |
+| RMA | Ressonância magnética angiográfica |
+| RMN | Ressonância magnética nuclear |
+| RT | Radioterapia |
+| SEER | Surveillance, Epidemiology, and End Results Program |
+| SINFAV | Sistema Nacional de Farmacovigilância (UFARM, ANVISA) |
+| SLAOP | Sociedad Latinoamericana de Oncología Pediátrica |
+| SNC | Sistema Nervoso Central |
+| SOBOPE | Sociedade Brasileira de Oncologia Pediátrica |
+| SOE | Sem outra explicação |
+| SOHP | Serviço de Onco-Hematologia Pediátrica |
+| SUS | Serviço Único de Saúde |
+| TC | Tomografia computadorizada |
+| UE | União Europeia |
+| UFARM | Unidade de Farmacovigilância (ANVISA) |
+| UFC | Universidade Federal do Ceará |
+| UMC | Centro Colaborador do Uppsala Monitoring Centre, Uppsala, Suécia |
+| VCEC | Combinação de vincristina, cisplatina, etoposido e ciclofosfamida |
+| WHO | World Health Organization (Organização Mundial de Saúde) |
+| WHO-ART | WHO&#39;s Adverse Reaction Terminology |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**SUMÁRIO**
+
+|
+## **1**
+ |
+## **INTRODUÇÃO**............................................................................................
+ |
+## 9
+ |
+| --- | --- | --- |
+|
+## **2**
+ |
+## **REFERENCIAL TEÓRICO**.......................................................................
+ |
+## 12
+ |
+|
+## **2.1**
+ |
+## **O Câncer**.......................................................................................................
+ |
+## 12
+ |
+|
+## **2.1.1**
+ |
+## **Características e Nomenclatura**....................................................................
+ |
+## 12
+ |
+|
+## **2.1.2**
+ |
+## **Câncer Pediátrico**..........................................................................................
+ |
+## 13
+ |
+|
+## **2.1.3**
+ |
+## **Tumores do Sistema Nervoso Central**..........................................................
+ |
+## 15
+ |
+|
+## **2.1.3.1**
+ |
+## **Tumores do Sistema Nervoso Central em pacientes pediátricos**.................
+ |
+## 16
+ |
+|
+## **2.2**
+ |
+## **Classes de Fármacos Quimioterápicos**.......................................................
+ |
+## 18
+ |
+|
+## **2.2.1**
+ |
+## **Fármacos Alquilantes**...................................................................................
+ |
+## 18
+ |
+|
+## **2.2.2**
+ |
+## **Fármacos Antimetabólitos**............................................................................
+ |
+## 19
+ |
+|
+## **2.2.3**
+ |
+## **Produtos Naturais**.........................................................................................
+ |
+## 20
+ |
+|
+## **2.2.4**
+ |
+## **Agentes Variados**..........................................................................................
+ |
+## 21
+ |
+|
+## **2.3**
+ |
+## **Tratamento Quimioterápico dos Tumores do Sistema Nervoso Central**
+ |
+## 22
+ |
+|
+## **2.4**
+ |
+## **Farmacovigilância**........................................................................................
+ |
+## 23
+ |
+|
+## _2.4.1_
+ |
+## _Farmacovigilância e Eventos Adversos em Oncologia_.................................
+ |
+## 26
+ |
+|
+## **3              **
+ |
+## **OBJETIVOS**.................................................................................................
+ |
+## 33
+ |
+|
+## **3.1**
+ |
+## **Objetivo geral**................................................................................................
+ |
+## 33
+ |
+|
+## **3.2**
+ |
+## **Objetivos específicos**.....................................................................................
+ |
+## 33
+ |
+|
+## **4**
+ |
+## **MATERIAIS E MÉTODOS**........................................................................
+ |
+## 34
+ |
+|
+## _4.1_
+ |
+## _Delineamento do Estudo_ ................................................................................
+ |
+## 34
+ |
+| _4.2_ | _Período e Local do Estudo_ ............................................................................. |
+## 34
+ |
+| _4.3_ | _População/ Amostra_ ....................................................................................... | 34 |
+| _4.4_ | _Definição das Variáveis do Estudo_ ................................................................ | 35 |
+| _4.5_ | _Coleta de Dados_ ............................................................................................. | 36 |
+| _4.6_ | _Análise dos Resultados_ ................................................................................... | 36 |
+| _4.7_ | _Aspectos Éticos_ ............................................................................................... | 36 |
+| _4.8_ | **RESULTADOS**............................................................................................. | 37 |
+| **5** | **DISCUSSÃO**................................................................................................. | 39 |
+| **6** | **CONCLUSÃO**.............................................................................................. | 41 |
+| **7** | **REFERÊNCIAS** |   |
+|   | **ANEXOS** |   |
+
+**1 INTRODUÇÃO**
+
+O Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA) estima que 596.000 novos casos de câncer afetarão os brasileiros em 2016. O aumento da expectativa de vida, a urbanização e a globalização são alguns dos fatores que podem explicar parte desse aparecimento de grande número de novos casos (INCA, 2016).
+
+No Brasil, as neoplasias são as quarta e quinta principais causas de morte não violenta, para homens e mulheres, respectivamente, perdendo apenas para causas externas, mal definidas, doenças respiratórias e parasitárias. São a segunda causa de morte não violenta em crianças de 5 a 14 anos. Na região Nordeste figuram como a quinta principal causa, para homens e mulheres. Já nas regiões sudeste e sul, constituem a segunda principal causa de morte (INCA, 2008).
+
+O número de casos novos de câncer do Sistema Nervoso Central (SNC) estimado para o Brasil em 2016 é de 5.440 casos em homens e de 4.830 em mulheres. Sem considerar os tumores de pele não melanoma, o câncer do SNC em homens é o 8º mais frequente nas regiões Nordeste e Sul. Ocupa a 10ª posição na região Norte e na região Centro-Oeste. Na região Sudeste é o 11º mais frequente. Para as mulheres é o sexto mais frequente na região Sul, e oitavo mais frequente na região Centro-Oeste. Na região Norte ocupa a 10ª posição. Enquanto nas regiões Sudeste e Nordeste é o 11º (INCA, 2016).
+
+Estima-se que, no ano de 2016, ocorrerão 12.600 novos casos de câncer em crianças e adolescentes até os 19 anos, no Brasil. As regiões Sudeste e Nordeste apresentarão os maiores números de casos novos, 6.050 e 2.750 respectivamente, seguidas pelas regiões Sul (1.320 casos novos), Centro-Oeste (1.270 casos novos) e Norte (1.210 casos novos) (INCA, 2016b).
+
+Nas últimas décadas, as neoplasias infantis vêm adquirindo uma importância especial no âmbito da pediatria, devido ao extraordinário avanço nos resultados terapêuticos. Entretanto, esses resultados não são apenas benéficos, já que os fármacos utilizados no tratamento dos tumores afetam tanto as células neoplásicas como as células dos tecidos normais.
+
+Estima-se que, no mundo inteiro, cerca de 8 a 15% das neoplasias pediátricas são representadas pelos tumores do SNC. Os tumores do SNC representam a segunda forma de câncer mais comum em crianças e a principal neoplasia sólida na infância nos Estados Unidos da América (EUA), ocorrendo em torno de 21,3% de todas as crianças com doenças malignas, com incidência anual de 5,26 casos por 100.000 (ARAÚJO _et al._, 2011). Cerca de 1 em cada 2.000 crianças nascidas, entre 2009-2011, será diagnosticada com tumores primários malignos do SNC quando tiverem 14 anos (OSTROM _et al_., 2015).
+
+No Brasil, os tumores de SNC, totalizam em média 9% da mortalidade em crianças abaixo de um ano, 10,82% para faixa de 1 a 4 anos, 10,94% para 5 a 9 anos, 8,21% para crianças de 10 a 14 anos e 7,31% para adolescentes de 15 a 18 anos. De acordo com o sexo, em todas as faixas etárias, os dados mostram que as mortes por neoplasias de SNC do tipo glioma são mais comuns em pessoas do sexo masculino, já os meningiomas são mais comuns no sexo feminino (INCA, 2008).
+
+De acordo com dados do INCA, a razão mortalidade/incidência de neoplasias do SNC é bastante alta, tanto para o mundo (73%), como para o Brasil (92%) (INCA, 2008).
+
+Segundo Muñoz (1989), a quimioterapia é o método que utiliza compostos químicos no tratamento de doenças causadas por agentes biológicos. Quando aplicada ao câncer, a quimioterapia é chamada de quimioterapia antineoplásica ou quimioterapia antiblástica.
+
+Atualmente, a quimioterapia pode ser utilizada de forma neoadjuvante, antes da cirurgia; adjuvante, após a cirurgia e juntamente com a radioterapia. Estudos em pacientes com meduloblastoma de alto risco têm mostrado uma sobrevida mais prolongada nos pacientes com quimioterapia adjuvante, apesar dos efeitos adversos que esses fármacos podem produzir (RUTKOWSKI _et al.,_ 2005).
+
+Os efeitos terapêuticos e tóxicos dos quimioterápicos dependem do tempo de exposição e da concentração plasmática do fármaco. A toxicidade é variável para os diversos tecidos e depende do fármaco utilizado. Os eventos adversos durante a quimioterapia dependem de vários fatores, entre eles a agressividade da quimioterapia, a combinação e o mecanismo de ação dos medicamentos, a localização e capacidade de metástase do tumor, a idade do paciente e as condições clínicas coexistentes. Nem todos os quimioterápicos causam efeitos indesejáveis tais como mielossupressão, alopecia e alterações gastrintestinais (náuseas, vômitos e diarreia). As doses para crianças, pessoas idosas e debilitadas devem ser menores, inicialmente, até que se determine o grau de toxicidade e de reversibilidade dos sintomas indesejáveis (GEYER; BERGER, 1990).
+
+Com os estudos recentes mostrando a efetividade do tratamento quimioterápico adjuvante e neoadjuvante nos tumores do sistema nervoso central, é fundamental averiguar como os pacientes estão reagindo a esses medicamentos e aos seus efeitos adversos.
+
+O estudo dos eventos adversos na quimioterapia é essencial para o acompanhamento dos pacientes submetidos a tal tratamento. A finalidade deste trabalho é relatar a frequência desses efeitos nos pacientes submetidos aos protocolos de quimioterapia para tumores do SNC no Centro pediátrico do Câncer do Hospital Infantil Albert Sabin (CPC-HIAS), visto que nele se concentram os pacientes pediátricos com neoplasias do SNC do Sistema Único de Saúde (SUS) da cidade de Fortaleza e de todo interior do estado do Ceará.
+
+**2 REFERENCIAL TEÓRICO**
+
+**2.1 O Câncer**
+
+**2.1.1 Características e Nomenclatura**
+
+A palavra &quot;câncer&quot; tem origem latina e significa &quot;caranguejo&quot; (BRASIL, 1971). Foi assim denominada em analogia ao seu crescimento infiltrante, comparado às pernas do crustáceo que as introduz na areia para se fixar e dificultar sua remoção (ALMEIDA _et al.,_ 2005).
+
+Câncer é o nome dado a um conjunto de mais de 100 doenças que têm em comum o crescimento desordenado (maligno) de células, que invadem tecidos e órgãos (INCA, 2016). Também pode ser chamado de tumor maligno ou neoplasia. A característica que o define é a rápida proliferação de células anormais que crescem além dos limites habituais. Devido a rápida divisão, estas células tendem a ser muito agressivas e incontroláveis determinando a formação de tumores ou neoplasias malignas, e podem invadir tecidos adjacentes e se alojarem em outras partes do corpo (WHO, 2015). Por outro lado, um tumor benigno significa simplesmente uma massa localizada de células que se multiplicam vagarosamente e se assemelham ao seu tecido original, raramente constituindo um risco de vida.
+
+Os tumores podem ter início em diferentes tipos de células. Quando começam em tecidos epiteliais, como pele ou mucosas, são denominados carcinomas. Se o ponto de partida são os tecidos conjuntivos, como osso, músculo ou cartilagem, são chamados sarcomas. Outras características que diferenciam os diversos tipos de câncer entre si são a velocidade de multiplicação das células e a capacidade de invadir tecidos e órgãos vizinhos ou distantes (metástases) (INCA, 2016).
+
+As alterações genéticas repassadas pela célula tumoral original, mesmo depois de já ter cessado o estímulo que deu origem a alteração inicial, permitem o crescimento excessivo, autônomo e desordenado de sua prole. Os tumores dependem do hospedeiro para sua nutrição e aporte sanguíneo. Eles são &quot;clonais&quot; porque surgem de uma só célula que sofreu alterações genéticas (STRICKER; KUMAR, 2010).
+
+O tumor benigno é aquele que não se dissemina para outros locais, tem características macro- e microscópicas relativamente inofensivas, pode ser removido por cirurgia local e o paciente tem mais chances de sobrevivência. Referem-se como &quot;câncer&quot; os tumores malignos, cuja lesão pode invadir e destruir estruturas adjacentes, e disseminar-se para estruturas distantes (metastatizar), levando à morte. Cânceres ou tumores malignos quando tratados com sucesso e precocemente podem não levar a morte (STRICKER; KUMAR, 2010).
+
+Tumores malignos e benignos possuem parênquima e estroma. As células clonais são o primeiro e o segundo é constituído de tecido conjuntivo, vasos sanguíneos, macrófagos e linfócitos. Do estroma depende a evolução do tumor. Um estroma carnoso e mole denota um suporte estromal escasso, outros, como o câncer de mama possuem estromas colagenosos e duros, denominados desmoplasmas (STRICKER; KUMAR, 2010).
+
+Adiciona-se para tumores benignos o sufixo –oma à célula de origem. A nomenclatura de tumores epiteliais é um pouco mais complexa porque envolve forma macro- e microscópica, célula de origem e arquitetura macroscópica. Para tumores malignos, a nomenclatura é a mesma que para os benignos adicionando-se outros prefixos. Os tumores malignos originados do tecido mesenquimal, por exemplo, por serem carnosos são chamados de sarcomas e os neoplasmas epiteliais, carcinomas. Tumores cujas células são indiferenciadas de origem histológica desconhecidas são chamados de tumores malignos indiferenciados. Tumores mistos são diferenciações celulares divergentes de um mesmo clone (STRICKER; KUMAR, 2010).
+
+O câncer ainda é uma das doenças que mais causam temor na sociedade por ter se tornado um estigma de mortalidade e dor. É uma das principais causas de morte no mundo, sendo responsável por 8,2 milhões de mortes em 2012. No Brasil, é a segunda causa de morte por doença, precedida apenas por doenças cardiovasculares (INCA, 2009). Para o ano de 2030, a Organização Mundial da Saúde (OMS) estima que o câncer seja responsável por 13,1 milhões de óbitos (WHO, 2015).
+
+**2.1.2 Câncer Pediátrico**
+
+O câncer na infância e adolescência difere em vários aspectos do câncer na idade adulta. Além de se tratar de uma doença rara na faixa etária de 0 a 19 anos, as diferenças se acentuam na origem biológica, nos fatores de risco, nos tipos histológicos, no sítio anatômico e nas respostas ao tratamento. Essas características interferem na forma de apresentação clínica e nas medidas de prevenção primária e secundária (POLOCK; KNUDSON JUNIOR, 2006).
+
+No paciente adulto, a maioria das neoplasias malignas é de origem epitelial, com evolução lenta, e muitas vezes passível de prevenção primária por serem causadas ou influenciadas por fatores de risco ambientais como o tabagismo, o etilismo, o sedentarismo e a obesidade. Já na criança e no adolescente, os tumores em geral são de origem embrionária, mais agressivos, de evolução mais rápida, muitas vezes em estágio avançado no momento do diagnóstico. No processo de carcinogênese dos tumores pediátricos os fatores ambientais exercem pouca ou nenhuma influência, dificultando as medidas de prevenção primária. O diagnóstico precoce é, portanto, uma medida de prevenção secundária, que possui grande potencial na mudança da realidade para as crianças e adolescentes com câncer, permitindo o tratamento das doenças em estágios iniciais e a utilização de modalidades de tratamento menos agressivas e menos tóxicas, proporcionando melhores resultados com menos sequelas (MALOGOLOWKIN _et al.,_ 2006).
+
+O INCA estima que 12.600 casos novos de câncer afetarão crianças e adolescentes até os 19 anos, no Brasil, em 2016. As regiões Sudeste e Nordeste apresentarão os maiores números de casos novos, seguidas pelas regiões Sul, Centro-Oeste e Norte (INCA, 2016).
+
+No Brasil, o número de casos novos de câncer na faixa etária abaixo de 19 anos representa um percentual pequeno em relação ao total – de 2% a 3%, ainda assim é a segunda causa de morte nesta população. Em países desenvolvidos, o câncer pediátrico, na faixa de 0 a 14 anos, é a mais importante causa de óbito. Em países em desenvolvimento é a segunda taxa de mortalidade, atrás apenas de causas externas (INCA, 2009).
+
+Os tumores dos pacientes pediátricos podem ser subdivididos em dois grandes grupos: Tumores hematológicos, como as leucemias e os linfomas; Tumores sólidos, como os do Sistema Nervoso Central/ Cérebro, tumores abdominais (neuroblastomas, hepatoblastomas, nefroblastomas), tumores ósseos e os tumores de partes moles (rabdomiossarcomas, sarcoma sinovial, fibrossarcomas), por exemplo (INCA, 2009).
+
+Nos países desenvolvidos, a taxa de cura do câncer na criança e no adolescente supera os 70%. No entanto, em nosso meio, dados oficiais dos Registros Hospitalares de Câncer mostram que estamos aquém dessas cifras. Podemos atribuir essa defasagem à demora na suspeita do diagnóstico que, se fosse realizado precocemente, agilizaria o encaminhamento dos pacientes, e à qualidade do tratamento oferecido, tornando as condições bastante diferentes em nosso imenso território (INCA, 2009). Infelizmente, algumas crianças ainda morrem neste país não por ter câncer, mas por serem brasileiras.
+
+**2.1.3 Tumores do Sistema Nervoso Central**
+
+Anatomicamente o Sistema Nervoso Central está dividido em encéfalo e medula espinhal. O encéfalo é constituído pelo cérebro, tronco encefálico e cerebelo. O cérebro, por sua vez, se subdivide em telencéfalo e diencéfalo, enquanto o tronco encefálico é subdividido em mesencéfalo, ponte e bulbo. Os tumores do SNC compreendem os tumores primários localizados no cérebro, meninges e os que acometem as outras estruturas que compõem o SNC. A classificação destes, em adultos é feita através da terceira edição da Classificação Internacional das Doenças para Oncologia (CID-O-3) (FRITZ, _et al.,_ 2000) e da Classificação dos Tumores do Sistema Nervoso Central da Organização Mundial de Saúde (OMS) (LOUIS _et al.,_ 2007).
+
+Cada tipo de tumor tem a sua própria biologia, tratamento e prognóstico e cada um deles é susceptível de ser causado por diversos fatores de risco. Mesmo os tumores &quot;benignos&quot; podem ser letais devido a sua localização no cérebro, a sua capacidade de infiltrar localmente, e a sua propensão para transformar-se em maligno. Isso torna o estudo dos tumores cerebrais uma ciência difícil e cria problemas na descrição da epidemiologia destas condições (MCKINNEY, 2004).
+
+A incidência anual global dos tumores primários do SNC no Reino Unido é de 7 por 100.000. Tumores cerebrais (telencéfalo e diencéfalo) representam 60% destes e são geralmente gliomas. Meningiomas representam mais de 25% e são geralmente benignos, contudo podem produzir considerável morbidade, dependendo da sua localização. Os tumores endócrinos, especialmente resultantes da pituitária, equivalem a 11% do total. Tumores cerebrais secundários são cerca de três vezes mais comuns do que os primários (BROWN, 2013; SCHMIDT-HANSEN; BERENDSE; HAMILTON, 2015).
+
+A maior proporção de tumores do SNC em adultos é supratentorial, surgindo nos lobos frontal, temporal e parietal, e a maioria (86%) são gliomas. Os Gliomas são tumores que surgem a partir de células gliais ou precursoras e incluem astrocitoma, glioblastoma, oligodendroglioma, ependimoma, glioma misto, glioma maligno, gliomas sem outra especificação (SOE) e alguns de histologia rara (OSTROM _et al.,_ 2014).
+
+Os sinais e sintomas mais comuns apresentados pelos pacientes com tumores do SNC são: Convulsões de início agudo, sinais e sintomas de hipertensão intracraniana, paralisia de nervos cranianos, déficits neurológicos focais, ataxia, alteração ou perda da visão, paraparesia (OSTROM _et al.,_ 2014).
+
+**2.1.3.1 Tumores do Sistema Nervoso Central em pacientes pediátricos**
+
+O câncer é uma fonte significativa de morbidade e mortalidade para crianças com idades entre 0-14 anos nos EUA. Em crianças com idades entre 1-4 e 5-14 anos o câncer é a quarta e segunda causa mais comum de morte, respectivamente, enquanto os tumores do SNC são a causa mais comum de morte por câncer em crianças entre 0-14 anos nos EUA (OSTROM _et al.,_ 2015, VITANZA; CHO, 2016).
+
+Os tumores do SNC constituem o terceiro mais comum de câncer em crianças nos países em desenvolvimento (ARAÚJO _et al.,_ 2011). No Brasil, o primeiro relato do Registro de Câncer de Base Populacional (RCBP) indicou uma incidência, em crianças e adolescentes até 19 anos, de 9,6 a 32,5 casos por 1.000.000, variando significativamente em relação à estatística do mundo desenvolvido ocidental (CAMARGO _et al._, 2010). Em Fortaleza (CE), a incidência ajustada para a idade no período entre 1998 e 2002 foi de 13,4 casos por 1.000.000. Isso representa 11% de todos os diagnósticos de câncer pediátrico, ocupando o terceiro lugar entre os grupos de neoplasias infantis, abaixo apenas de leucemias (30%) e linfomas (15%) (INCA, 2008). A incidência reportada para Fortaleza no período de 2001-2005 foi de 16,6 casos por 1.000.000, representando 13,2% dos tumores pediátricos no período, mas ainda em terceiro lugar dentre as neoplasias infantis (INCA, 2010). Um terço desses tumores é diagnosticado antes dos 3 anos de idade. Meninos são mais afetados que meninas, dependendo do tipo neoplásico e da idade do paciente.
+
+A classificação dos tumores do SNC em crianças é feita através do CID-O-3 (FRITZ _et al.,_ 2000) e da terceira edição da Classificação Internacional do Câncer na Infância (CICI-3) (STELIAROVA-FOUCHER _et al_., 2005).
+
+Os astrocitomas pilocíticos, os tumores do SNC mais frequentes em crianças, são tumores de comportamento incerto, ora classificados como benignos, ora como malignos. Eles representam em torno de 18% dos tumores cerebrais infantis. Em seguida, vêm os tumores embrionários, a maior parte dos quais meduloblastomas, os tumores malignos mais comuns da infância, que representam em torno de 15% dos diagnósticos de tumor cerebral em crianças (CBTRUS, 2012; VITANZA; CHO, 2016).
+
+Os ependimomas constituem o terceiro grupo mais comum de tumores pediátricos do SNC, compreendendo cerca de 10% dos tumores cerebrais pediátricos e 23% dos tumores da coluna vertebral (VITANZA; CHO, 2016). Astrocitomas pilocíticos são tumores indolentes, de crescimento lento, tratados principalmente pela ressecção cirúrgica, a qual é curativa na maioria dos casos, com pouca probabilidade de disseminação e virtualmente ausência de transformação maligna (GAN; HAAS-KOGAN, 2010). Já os meduloblastomas são tumores indiferenciados, com elevado índice mitótico, e acentuada propensão à disseminação e recidiva, necessitando de terapia adjuvante com radio e quimioterapia após ressecção cirúrgica (PARTAP; FISHER, 2010).
+
+Estes dois tipos tumorais, que juntos correspondem a mais de 30% dos casos de tumores cerebrais em crianças, têm hoje um prognóstico favorável quando comparado ao passado. Outros tipos tumorais menos frequentes, todavia, têm resultados menos brilhantes com o tratamento atualmente disponível. Ependimomas têm uma propensão elevada à recorrência local, com taxas de sobrevida de cerca de 25% após a recidiva (COYLE _et al.,_ 2015). Tumores de tronco cerebral, normalmente não biopsiados na sua maioria, constituem cerca de 10% dos tumores cerebrais infantis, e têm um prognóstico extremamente reservado, com apenas um subgrupo pequeno de pacientes com tumores neste sítio alcançando sobrevida prolongada (NEAL; HOSKIN, 2009).
+
+Tumores infratentoriais são mais comuns em crianças, enquanto que em adultos predominam em um dos hemisférios cerebrais (supratentoriais). Todos os tumores do SNC crescem por infiltração e/ou compressão ao tecido neural adjacente, causando edema e aumentando a pressão intracraniana. Isso pode levar a um dano focal e prejudicar a drenagem do fluido cérebro-espinhal (FCE) (NEAL; HOSKIN, 2009).
+
+Histologicamente, os astrocitomas são divididos pela OMS em: de baixo grau (grau 1 e 2) e de alto grau (grau 3 e 4). Os de grau 4 são denominados glioblastomas multiformes e ocasionalmente são multifocais (NEAL; HOSKIN, 2009).
+
+Para investigar-se um tumor cerebral, é utilizada comumente tomografia computadorizada (TC), imagens de ressonância magnética (RMN), ressonância magnética angiográfica (RMA), tomografia por emissão de pósitrons (PET, pósitron emission tomography), mielografia, agulha de biópsia estereotáxica ou biópsia aberta e punção lombar (NEAL; HOSKIN, 2009).
+
+Os tumores pediátricos de Sistema Nervoso Central são diagnosticados mais rapidamente quando se manifestam na região infratentorial (10,8 semanas em média) do que quando ocorrem na região supratentorial (43,4 semanas em média) (FLORES, 1986; INCA, 2009).
+
+As principais modalidades de tratamento de tumores infantis são cirurgia, radioterapia e quimioterapia. A cirurgia (ressecção completa) é o principal tratamento dos tumores do SNC (sendo, por exemplo, a única modalidade necessária para muitos pacientes com astrocitomas de baixo grau) e o de maior impacto na sobrevida dos mesmos. A radioterapia é necessária em pacientes nos quais somente o tratamento cirúrgico não é suficiente para controlar a doença ou nos pacientes em que a cirurgia não é possível (por exemplo, pacientes com meduloblastomas ou tumores infiltrativos de ponte) (ARAUJO _et al_., 2011; BLANEY _et al.,_ 2006).
+
+A radioterapia, porém, não é isenta de efeitos colaterais em curto e em longo prazo, sobretudo em relação à cognição e ao crescimento na dependência da dose utilizada e da área coberta. Além disso, não é rotineiramente realizada nos menores de 3 anos. Até a década de 1990, o uso de quimioterapia era controverso em tumores cerebrais, mas um número cada vez maior de pacientes beneficia-se dessa modalidade. Atualmente, a quimioterapia está bem estabelecida em pacientes pediátricos com meduloblastomas e astrocitomas de baixo grau (ARAUJO _et al_., 2011; BLANEY _et al.,_ 2006).
+
+**2.2 Classes de Fármacos Quimioterápicos**
+
+No presente trabalho, adotou-se para os agentes quimioterápicos a classificação de Brunton, Chabner e Knollmann (2014).
+
+**2.2.1 Fármacos Alquilantes**
+
+Chabner (2014) classifica os fármacos alquilantes em: mostardas nitrogenadas, derivados da metil-hidrazina, alquilsulfonato (bussulfano), nitrosureias, triazenos e complexos de coordenação de platina.
+
+São fármacos citotóxicos que transferem seus grupos alquila para vários constituintes celulares. A alquilação mais importante é provavelmente a do DNA, levando a morte celular. Geralmente, há uma ciclização intramolecular para formar um íon etilenoimônio que transfere um grupo alquila para um constituinte celular diretamente ou pela formação de um íon carbônio. A posição N7 da guanina é o principal ponto de alquilação, em menor extensão de alquilação tem-se: a N1 e N3 da adenina, a N3 da citosina e O6 da guanina, além de proteínas e fosfatos associados ao DNA. Possuem efeitos colaterais dose-dependente em tecidos de rápido crescimento como, por exemplo, náuseas, vômitos, lesão do tecido local de administração e toxicidade sistêmica (CHU; SARTORELLI, 2014; CHABNER _et al.,_ 2014).
+
+Os análogos da platina ou complexos de coordenação da platina, tais como cisplatina, carboplatina e oxaliplatina, são usados para tratar neoplasias. Não são agentes alquilantes clássicos por se tratarem de compostos organometálicos que formam ligações covalentes com o DNA. Ainda que o mecanismo preciso de ação dos complexos de platina não tenha sido elucidado completamente, sabe-se que eles matam as células tumorais em todas as fases do ciclo celular através de ligações cruzadas com os filamentos de DNA, cujo principal ligante é o N7 da guanina (CHU; SARTORELLI, 2014; CHABNER _et al.,_ 2014).
+
+A carboplatina é um fármaco de segunda geração de amplo espectro contra tumores sólidos. Se comparada à cisplatina, observa-se toxicidade renal e gastrintestinais menores que sua antecessora e com farmacocinética, atividade citotóxica, mecanismo de resistência e farmacologia clínica idênticos. A toxicidade responsável por limitar a dose é a que causa mielossupressão. Por não necessitar de hidratação intravenosa durante a quimioterapia, sua administração é mais fácil (CHU; SARTORELLI, 2014; CHABNER _et al.,_ 2014).
+
+Durante a Primeira Guerra Mundial, observaram-se os efeitos tóxicos das mostardas nitrogenadas. O gás mostarda é um poderoso vesicante, causador de queimaduras na pele, olhos, pulmões e mucosa, além de aplasia medular e ulceração do trato gastrintestinal quando há exposição maciça. A ciclofosfamida é o agente mais utilizado atualmente dessa classe. As mostardas nitrogenadas são seletivas para células tumorais, em parte, porque não conseguem degradar os intermediários pela aldeído desidrogenase, glutationa transferase ou outras vias (CHABNER _et al.,_ 2014).
+
+A ifosfamida é uma oxazafosforina ativada no fígado pela CYP3A4 que possui maior neurotoxicidade que a ciclosfamida. São necessárias doses sempre mais altas de ifosfamida que ciclofosfamida provavelmente por causa de sua ativação mais lenta com produção de mais metabólitos tóxicos (desclorados e cloroacetaldeído). A ifosfamida teve seu uso limitado a partir da década de 1970 pela ocorrência de toxicidade grave no trato urinário e SNC, mas com hidratação adequada, há redução da sua toxicidade vesical (CHABNER _et al.,_ 2014).
+
+**2.2.2 Fármacos Antimetabólitos**
+
+Muitos fármacos dessa classe foram sintetizados e planejados racionalmente com base no conhecimento de processos celulares fundamentais envolvidos na biossíntese do DNA. As diferenças entre as células cancerosas e normais tornam as primeiras mais sensíveis aos antimetabólitos. O ácido fólico é convertido a tetra-hidrofolato (FH4) pela enzima diidrofolato redutase (DHFR). O FH4 é uma molécula fornecedora de grupos metila para a síntese de precursores de DNA. Quando se interfere no metabolismo da FH4, reduz-se a capacidade que a célula tem de transferir um carbono e as reações de metilação na síntese de precursores de DNA, como timidilato monofosfato e ribonucleotídeos de purinas (CHU; SARTORELLI, 2014; CHABNER _et al._, 2014).
+
+Agentes antimetabólitos bloqueiam a síntese de DNA e são restritos a fase S. Os antimetabólitos podem ser: análogos do ácido fólico ou antifolatos (metotrexato, pralatrexato e pemetrexede), análogos das pirimidinas (capecitabina, 5-fluorouracila, floxuridina, citarabina, 5-azacitidina, gencitabina e decitabina) e análogos das purinas (6-mercaptopurina, tioguanina, pentostatina, azatioprina, fosfato de fludarabina e cladribina) (ALMEIDA _et al_., 2005; CHU; SARTORELLI, 2014; CHABNER _et al._, 2014).
+
+**2.2.3 Produtos Naturais**
+
+Os alcaloides da vinca foram os primeiros agentes clínicos utilizados no tratamento de câncer testicular, leucemias e linfomas porque seus extratos purificados, incluindo vincristina e vimblastina, obtiveram êxito no tratamento de leucemia linfocítica aguda em camundongos, produzindo regressão no tumor (CHABNER _et al._, 2014).
+
+O mecanismo geral de ação dos alcaloides da vinca é o bloqueio da mitose. Eles ligam-se preferencialmente à -tubulina e bloqueiam sua polimerização com a -tubulina nos microtúbulos (CHABNER _et al._, 2014).
+
+Ao incubar células tumorais com vincristina, tem-se uma reação equimolar de vincristina com os microtúbulos, formando-se uma rede cristalina altamente regular. Durante a metáfase a divisão celular é interrompida. Sem fuso mitótico não há possibilidade de alinhamento dos cromossomos na placa equatorial (mitose explodida) (CHABNER _et al._, 2014).
+
+Os microtúbulos também se encontram em grande quantidade no cérebro e lá se envolvem em outras funções celulares como: movimento, fagocitose e transporte axônico. Os alcaloides da vinca influenciam nessas funções, daí a sua neurotoxicidade (CHABNER _et al._, 2014).
+
+A ação mielossupressora limitada da vincristina a faz um fármaco de escolha para vários esquemas terapêuticos para leucemia e linfoma. A vimblastina não apresenta efeito citotóxico de neurotoxicidade grave e, junto à cisplatina, é utilizada para tratar câncer testicular. Ela também é utilizada para tratar câncer de bexiga e linfoma de Hodgkin (CHABNER _et al._, 2014).
+
+O sulfato de vincristina junto com corticoides é o tratamento de escolha para leucemia infantil. Quando a vincristina é associada àantraciclina ou aos agentes alquilantes, são utilizados para o tratamento de sarcomas pediátricos. A vincristina parece ser bem mais tolerada por crianças que por adultos, porém quanto maior as doses, maior a toxicidade, em sua maioria com manifestações neurológicas associadas, embora a administração inicial não deva ter sua dose diminuída. A constipação só se torna um problema em doses superiores a 2 mg/m2, devendo-se administrar laxativos como profilaxia. Em 20% dos pacientes ocorre alopecia reversível. Pode ocorrer também leucopenia moderada (CHABNER _et al._, 2014).
+
+As epipodofilotoxinas são derivados sintéticos da podofilotoxina, presente na _Podophyllum peltatum_ (mandrágora) a qual era utilizada como antiparasitário e antiemético. Os derivados sintéticos são o etoposido e o teniposídeo. A vantagem dos dois sobre a podofilotoxina é que, ao ligar-se a tubulina, não interferem na estrutura e função normal dos microtúbulos em concentrações habituais (CHABNER _et al._, 2014).
+
+As epipodofilotoxinas formam um complexo ternário com a topoisomerase II e o DNA e impedem o reparo da quebra que normalmente ocorre após a ligação da topoisomerase ao DNA, à semelhança do mecanismo de ação das antraciclinas. Há acúmulo de quebras de DNA e consequente morte celular. As fases S e G2 do ciclo celular são os momentos de maior sensibilidade celular ao etoposido (CHABNER _et al._, 2014).
+
+A leucopenia é o efeito tóxico mais comum relacionado ao etoposido. Os sintomas menos frequentes são trombocitopenia, náuseas, vômitos, estomatite e diarreia. A alopecia é comum, mas reversível. Em altas doses do fármaco ou quando a concentração sérica de albumina é baixa, o que torna o fármaco mais livre no plasma, pode haver hepatotoxicidade (CHABNER _et al._, 2014).
+
+**2.2.4 Agentes variados**
+
+Há alguns tipos de agentes que não se enquadram nas definições anteriores. São eles: 1) Ureia substituída (hidroxiureia); 2) Agentes de diferenciação (tretinoína, trióxido de arsênio), Inibidores da tirosinoquinase (imatinibe); 3) Inibidor do proteossoma (bortezomibe); 4) Modificadores de resposta biológica (interferon-); 5) Imunomoduladores (talidomida); 5) Inibidores do mTOR (_mammalian target of rapamycin_) e 6) Anticorpos monoclonais (CHU; SARTORELLI, 2014).
+
+Esses fármacos são os mais recentes e foram planejados para bloquear as mutações fundamentais que causam cânceres específicos. Os mais importantes são anticorpos monoclonais, cujo papel é atacar antígenos e receptores de superfície celular, ou moléculas pequenas sintéticas que penetram nas células e ligam-se a enzimas críticas. Os anticorpos monoclonais podem transportar toxinas ou radionuclídeos até as células-alvo, sendo altamente específicos (CHABNER _et al_., 2014).
+
+**2.3 Tratamento Quimioterápico dos Tumores do Sistema Nervoso Central**
+
+O primeiro quimioterápico antineoplásico foi desenvolvido a partir do gás mostarda, usado nas duas Guerras Mundiais como arma química. Após a exposição de soldados a este agente, observou-se que eles desenvolveram hipoplasia medular e linfóide, o que levou ao seu uso no tratamento dos linfomas malignos. A partir da publicação, em 1946, dos estudos clínicos feitos com o gás mostarda e das observações sobre os efeitos do ácido fólico em crianças com leucemias, verificou-se avanço crescente da quimioterapia antineoplásica (GEYER; BERGER, 1990).
+
+Atualmente, quimioterápicos mais ativos e menos tóxicos encontram-se disponíveis para uso na prática clínica. Os avanços verificados nas últimas décadas, na área da quimioterapia antineoplásica, têm facilitado consideravelmente a aplicação de outros tipos de tratamento de câncer e permitido maior número de curas (STILLER, 1988).
+
+Os quimioterápicos usados no tratamento dos tumores afetam tanto as células dos tecidos normais quanto as células malignas, com maior dano às células neoplásicas do que as normais, devido às diferenças quantitativas entre os processos metabólicos dessas duas populações celulares (HAMMOND, 1996).
+
+Os quimioterápicos atuam sobre as estruturas normais com alta taxa de renovação, como a medula óssea, os pêlos e a mucosa do tubo digestivo. No entanto, como as células normais apresentam um tempo de recuperação previsível, ao contrário das células cancerígenas, é possível que a quimioterapia seja aplicada repetidamente, desde que observado o intervalo de tempo necessário para a recuperação da medula óssea e da mucosa do tubo digestivo. Por este motivo, a quimioterapia é aplicada em ciclos periódicos (KELLIE, 1999).
+
+Os fármacos mais usados para o tratamento quimioterápico de tumores do SNC em crianças são agentes alquilantes, como as mostardas nitrogenadas, os compostos de coordenação de platina e as nitrosuréias. Além dessas, produtos naturais como os alcaloides da Vinca e epipodofilotoxinas, como o etoposido, são utilizadas. Um ensaio clínico do Children&#39;s Oncology Group utilizando carboplatina e vincristina em doses relativamente baixas semanais teve seus resultados publicados recentemente (ATER _et al._, 2012). A combinação de carboplatina e vincristina em doses semanais mostrou ser bem tolerada e eficaz em adiar a necessidade de radioterapia para pacientes com gliomas de baixo grau primários e recorrentes, com toxicidade baixa a moderada (PACKER _et al._, 1997).
+
+Os meduloblastomas têm sido tratados com radioterapia (RT) e quimioterapia (QT) após a cirurgia, com melhor prognóstico devido à terapia combinada. Vários esquemas têm sido propostos, mas todos com doses intensivas de quimioterápicos. O ensaio CCG-9961 mostrou que a combinação de cisplatina, ciclofosfamida, etoposido e vincristina permite reduzir a dose de radioterapia em pacientes com meduloblastoma não metastático, minizando os efeitos colaterais a longo prazo da radiação (PACKER _et al_., 2006). Progressos consideráveis no tratamento dos pacientes com meduloblastoma de alto risco têm sido conseguidos com esquemas de doses intensivas de quimioterapia (GAJJAR _et al.,_ 1999; RUTKOWSKI _et al._, 2005). O ensaio clínico fase II COG-A99701 mostrou que o uso de carboplatina diária concomitante com a radioterapia, seguida de uma manutenção com altas doses de ciclofosfamida, permite maior sobrevida em pacientes com meduloblastoma metastático (JAKACKI _et al_., 2012). Tais esquemas intensivos são previsivelmente bem mais tóxicos, e relatos na literatura mostram toxicidade grau 3 ou 4 na maioria dos pacientes, inclusive com óbitos (GEYER _et al.,_ 2005).
+
+Ensaios clínicos têm demonstrado a viabilidade do tratamento de pacientes com gliomas malignos, ependimomas e outros tumores em crianças menores de 3 anos (GEYER _et al.,_ 2005), usando uma combinação de vincristina, cisplatina, etoposido e ciclofosfamida (VCEC), ou ainda combinando ifosfamida, carboplatina e etoposido (ICE). Infelizmente, o tratamento de pacientes com outros tumores cerebrais malignos tem se mostrado insatisfatório com quimioterapia baseada nas mesmas diretrizes (GAJJAR, 2015).
+
+**2.4 Farmacovigilância**
+
+Farmacovigilância (FV), a vigilância sobre o uso seguro de medicamentos, adquiriu enorme importância especialmente depois de acontecimentos dramáticos, como a tragédia da talidomida na década de 1960 (MCBRIDE, 1961). Embora outros incidentes graves, como os do dietilenoglicol, tenham sido registrados depois (U.S. FDA, 1981 updated 2010; WOOLF, 1998), este evento é considerado o gatilho para FV moderna (BALDO; PAOLI, 2014).
+
+A Organização Mundial da Saúde (OMS) define como farmacovigilância (FV), &quot;A ciência e as atividades de detecção, avaliação, compreensão e prevenção dos efeitos adversos ou quaisquer outros problemas relacionados a medicamentos&quot; (OMS, 2002). Os ensaios clínicos não são capazes de descobrir totalmente ou prever todos os aspectos relacionados com a segurança e a toxicidade de um novo fármaco, e a vigilância sobre o uso seguro de medicamentos é essencial na pós-comercialização (BALDO; PAOLI, 2014).
+
+Com a FV podem ser gerados, o conhecimento da situação real em relação ao uso racional de medicamentos em uma determinada comunidade, detecção de reações adversas mais frequentes e mais graves em uma região, comparação com a legislação nacional e condução de medidas internacionais, intervenção no sistema de cuidados através dos agentes de saúde, estudos farmacoeconômicos para determinar o custo social, número de leitos hospitalares ocupados decorrente de reações adversas a medicamentos, determinação de incapacidade e perda de tempo envidados pelos profissionais de laboratório além do custo direto do tratamento necessário (BALDO; PAOLI, 2014).
+
+A FV como disciplina científica é bastante jovem, se pensarmos que o termo foi introduzido no dicionário MeSH (_Medical Subject Headings_) somente em 2012, mostrando tanto o valor crescente de FV e da falta de consciência em anos anteriores (BALDO; PAOLI, 2014).
+
+Recentemente, dentro da Comunidade Europeia, uma nova legislação introduziu uma série de melhorias com o objetivo de movimentar os Estados-Membros a sair de uma farmacovigilância passiva para uma ativa e mais estruturada. A nova legislação, em vigor desde Julho 2012 {regulamento [União Europeia (UE)] No. 1235/2010 e Diretiva 2010/84 / UE}, representa a maior mudança para a regulamentação dos medicamentos na União Europeia desde 1995 (BALDO; PAOLI, 2014).
+
+Assim como na Europa, em 2007 a legislação dos EUA foi profundamente alterada por emendas à lei pelo Food and Drug Administration (FDA). Através destas emendas, o FDA está autorizado a exigir que empresas farmacêuticas criem novos ensaios ou estudos, ou enviem Avaliação de Riscos e Estratégia de Mitigação, se a relação benefício/risco de um medicamento específico não for mais considerada segura (BALDO; PAOLI, 2014).
+
+A OMS coordena o sistema de quantificação e detecção de reações adversas, estabelecido em 1968. Inicialmente foi implantado um projeto piloto em 10 países que dispunham de um sistema nacional de notificação de reações adversas (OMS, 2004; UMC, 2005). Atualmente, o programa da OMS é coordenado pelo Centro Colaborador do Uppsala Monitoring Centre (UMC), em Uppsala, Suécia, com a supervisão de um comitê internacional. Em 2004, 86 países participavam do programa, e hoje já se somam 149 países, sendo 121 membros oficiais e 28 membros associados fazendo parte desse programa da OMS (UMC, 2015; WHO, 2016). O Brasil foi inserido neste programa no ano de 2001, como o 62º membro oficial (OPAS, 2002).
+
+No Brasil, os primeiros esforços no sentido de abordar as questões relacionadas às reações adversas ocorreram na década de setenta. Foram editadas algumas legislações, que podem ser consideradas tentativas infrutíferas de desenvolvimento da Farmacovigilância. Todavia, um importante referencial foi a Política Nacional de Medicamentos aprovada em 1998 (OPAS, 2002). Esta teve como propósito, garantir a necessária segurança, eficácia e qualidade dos medicamentos, a promoção do uso racional e o acesso da população àqueles considerados essenciais (BRASIL, 2001 _apud_ OPAS, 2002).
+
+Durante as décadas de 80 e 90, a consciência sobre Farmacovigilância começou a ser formada nas escolas de saúde, grupos de defesa do consumidor, centros de informações sobre medicamentos e associações de saúde do profissional (DIAS, 2002). Em abril de 1995, ocorreu, em Buenos Aires (Argentina), a I reunião para a Elaboração de Estratégias para a Implementação de Sistemas de Farmacovigilância na América Latina, organizada pela _Administración Nacional de Medicamentos, Alimentos y Tecnología Médica-Ministerio de Salud Y Ambiente de la Nacion_, com o apoio da Organização Mundial da Saúde e da Organização Pan-americana de Saúde, da qual participaram representantes de toda América Latina. Nessa reunião foi proposta a criação de um Sistema Nacional de Farmacovigilância, e foi decidida a realização de uma fase piloto da implantação do Sistema de Notificação Voluntária de Reações Adversas a Medicamentos (ARRAIS, 1996). Infelizmente esse projeto não foi adiante, entretanto durante a década de 90, ocorreram iniciativas pioneiras em alguns estados como Ceará, Paraná, São Paulo, Mato Grosso do Sul, entre outros (OPAS, 2002).
+
+Nesse período, destacou-se o Sistema Estadual de Farmacovigilância do Ceará, criado em novembro de 1996, a partir de um convênio realizado entre a Universidade Federal do Ceará (UFC) e a Secretaria de Estado da Saúde do Ceará, tendo com órgão executor o Grupo de Prevenção ao Uso Indevido de Medicamentos (GPUIM) (COÊLHO; ARRAIS; GOMES, 1999).
+
+Em 1999 foi criada a Agência Nacional de Vigilância Sanitária (ANVISA) (OPAS, 2002; DIAS, 2005) e com ela, o Sistema Nacional de Farmacovigilância, gerenciado pela Unidade de Farmacovigilância (UFARM), integrante da nova Gerência Geral de Segurança Sanitária de Produtos de Saúde Pós-Comercialização (DIAS, 2005). A principal função da UFARM é a análise das informações recebidas, e encaminhamento ao banco de dados do Programa Internacional de Monitoramento de Medicamentos da OMS (_The Uppsala Monitoring Centre_) (EDWARDS, 2000).
+
+A proposta inicial da UFARM envolvia a participação de Centros de Farmacovigilância Regionais, já implantados ou em implantação, Hospitais Sentinelas e Médicos Sentinelas. A UFARM optou por iniciar a construção do Sistema Nacional de Farmacovigilância (SINFAV) com a implantação de Hospitais Sentinelas que é uma rede nacional constituída por cem grandes hospitais, motivada para a notificação de efeitos adversos advindos do uso de produtos de saúde, com vistas para obter a informação para a regularização do mercado (ARRAIS, 2002).
+
+Entre 2001 e 2003, a UFARM recebeu 3.540 solicitações por e-mail de informações sobre medicamentos e os temas mais destacados foram: legislação, reação adversa a medicamento (RAM) ou queixa técnica e restrição ou proibição de medicamentos (LACERDA _et al.,_ 2004). Em 2003, 60% das notificações recebidas pela UFARM foram dos hospitais sentinelas (ANVISA), de um total de 1.983 notificações (SOUZA _et al.,_ 2004b) e, até agosto de 2004, o Centro Nacional de Monitorização de Medicamentos (CNMM) acumulou 4.876 notificações (SOUZA _et al.,_2004a).
+
+Em 2006, através da RDC nº 40 e da Portaria nº 96, de 08 de março de 2006 a ANVISA instituiu e designou os membros do Comitê Assessor do Programa Farmácias Notificadoras (ANVISA, 2016).
+
+A ANVISA, ao lançar o projeto Farmácias Notificadoras, pretende ampliar as fontes de notificação de casos suspeitos de efeitos adversos a medicamentos e de queixas técnicas de medicamentos, em parceria com o Centro de Vigilância Sanitária e o Conselho Regional de Farmácia de cada estado, estimulando o desenvolvimento de ações de saúde em farmácias e drogarias (ANVISA, 2016).
+
+A nova proposta é que a farmácia, pública ou particular, deixe de ser estabelecimento meramente comercial e agregue o valor de utilidade pública. O farmacêutico, ante as queixas dos consumidores, deve notificar, ao CNMM, problemas relacionados a medicamentos. Com essa nova postura, a farmácia, e consequentemente o farmacêutico, torna-se elo entre a população e o Governo (ANVISA, 2016).
+
+_2.4.1 Farmacovigilância e Eventos Adversos em Oncologia_
+
+Os agentes antineoplásicos, apesar de bem estudados e extremamente benéficos no tratamento do câncer, são utilizados com cautela, devido à sua alta toxicidade e janela terapêutica estreita (GANDHI _et al._, 2005).
+
+Lau, Stewart e Dooley (2004) demostraram uma alta frequência de reações adversas em pacientes oncológicos hospitalizados, sendo que constipação, náusea e vômito, fadiga, alopecia, sonolência, mielossupressão, anorexia, reações dermatológicas, mucosite e diarreia foram as dez mais comuns. Ainda, Miranda _et al._ (2011) estudaram reações adversas como causa de hospitalização de pacientes com câncer, verificando que 13,1% das admissões estavam relacionadas à toxicidade, principalmente à neutropenia febril após quimioterapia sistêmica.
+
+Uma terapêutica farmacológica pediátrica é, geralmente, baseada na extrapolação de dados conseguidos em estudos realizados em adultos e que foram devidamente aprovados para a aquisição do registro do medicamento, no entanto, isso pode comprometer a segurança e os resultados dos tratamentos em pediatria. Devido aos parâmetros fisiológicos e farmacocinéticos peculiares, crianças tornam-se mais susceptíveis aos efeitos tóxicos da terapia farmacológica. Uma RAM é mais fácil ocorrer em pacientes que utilizam vários medicamentos, e também está relacionada ao uso de medicamentos não licenciados para uso pediátrico e o uso diferente das especificações de registro (_off label_). As RAMs prolongam a internação/permanência de pacientes pediátricos em hospitais (SANTOS; COELHO, 2004; SANTOS _et al.,_ 2008).
+
+A imaturidade fisiológica, especialmente no primeiro ano de vida, o uso de polifarmácia, o tempo de internação hospitalar, o uso de fármacos sem aprovação ou estudos clínicos com evidências clínicas deficientes, sendo prescritos fora das indicações aprovadas, entre outros, são fatores de risco que predispõem o desencadeamento de RAM em crianças (JONVILLE-BÉRA _et al.,_ 2002; SANTOS; COELHO, 2004; FATTAHI _et al.,_ 2005; DELL&#39;AERA _et al.,_ 2007; OMS, 2007).
+
+É evidente a importância do esclarecimento ao paciente das RAMs por parte dos farmacêuticos e a necessidade crescente da farmacovigilância por parte da equipe de farmacêuticos clínicos e hospitalares, cuja demanda está crescendo a cada dia, não só a nível hospitalar quanto na atenção básica à saúde. Os farmacêuticos clínicos devem estar preparados para às notificações das RAMs, daí a importância cada vez maior destes profissionais serem inseridos no contexto da oncovigilância, pois a detecção de RAMs e seu diagnóstico diferencial dependem da presença e do grau de atenção do profissional farmacêutico para o problema (LIEKWEG; WESTFELD; JAEHDE, 2004).
+
+Estudos de farmacovigilância são imprescindíveis em oncologia, visto que os pacientes com câncer são um dos grupos com maior risco de desenvolvimento de problemas relacionados a medicamentos (PRMs) (LIEKWEG; WESTFELD; JAEHDE, 2004; CAVACO _et al.,_ 2012).
+
+Pode-se dizer que os objetivos específicos da farmacovigilância são a melhora do cuidado e a segurança do paciente, melhora da saúde pública e contribuição na avaliação risco-benefício em relação ao uso de medicamentos. Muitos subsistemas de monitorização de medicamentos derivados da farmacovigilância foram desenvolvidos, por exemplo, a oncovigilância, que monitora o aparecimento de reações adversas aos antineoplásicos citotóxicos (DIAS, 2008). Tais reações adversas podem ser assistidas pela equipe multidisciplinar (VISACRI _et al_., 2014).
+
+As reações adversas representam um grupo particular dentre os PRMs, e são tão comuns e previsíveis em oncologia, que passaram a ser vistas como componente inevitável do tratamento (LAU; STEWART; DOOLEY, 2004). Segundo a OMS, reação adversa consiste em qualquer evento nocivo e não intencional ocorrido na vigência do uso de medicamento, em doses normalmente usadas em humanos, com finalidade profilática, diagnóstica ou terapêutica de doenças ou para a modificação de funções fisiológicas (WHO, 1972; MIRANDA _et al.,_ 2011).
+
+Segundo Edwards e Aronson (2000), essa definição é incompleta visto que não contempla os erros de medicação como fonte de efeitos adversos, excluem reações devido a contaminantes, e aos excipientes dito &quot;inertes&quot; que compõem os medicamentos e que são passíveis de provocar diversos efeitos adversos (AAP, 1997; SILVA _et al.,_ 2009).
+
+Os termos &quot;reação adversa&quot; e &quot;efeito adverso&quot; são intercambiáveis. Entretanto, efeito adverso é um termo preferível a outros termos como efeito colateral ou efeito tóxico. Um efeito tóxico é aquele que ocorre como um exagero do efeito terapêutico desejado, e que não é comum em doses normais. Por exemplo, uma dor de cabeça devido a um antagonista do cálcio é um efeito tóxico, que ocorre pelo mesmo mecanismo que o efeito terapêutico (vasodilatação). Está sempre relacionado à dose (EDWARDS; ARONSON, 2000).
+
+Efeito colateral indesejável ocorre através de outro mecanismo (diferente do mecanismo de ação) e pode estar ou não relacionado com a dose. Por exemplo, o efeito anticolinérgico dose-dependente de um antidepressivo tricíclico é um efeito colateral, uma vez que esta ação não está associada com o efeito terapêutico; da mesma forma, a anafilaxia não dose-dependente associada à penicilina é um efeito colateral (STEPHENS, 1998).
+
+No entanto, os termos, reação adversa, efeito adverso e efeito tóxico devem ser diferenciados de &quot;evento adverso&quot;. Um efeito adverso é um resultado adverso que pode ser atribuído a ação de um fármaco; um evento adverso é um resultado adverso que ocorre quando um paciente está tomando um medicamento, mas não é ou não é necessariamente atribuível à este. Esta distinção é importante, por exemplo, em ensaios clínicos, em que nem todos os eventos são necessariamente relacionados com o fármaco (EDWARDS; ARONSON, 2000). Ao descrever os resultados adversos como eventos ao invés de efeitos (relacionados aomedicamento), os investigadores reconhecem que nem sempre é possível atribuir causalidade.
+
+As estratégias de maior utilização para estudar e conhecer reações adversas a medicamentos consistem em: a) Relato de caso (notificação espontânea de reações adversas e publicações); b) Série de casos (publicações em boletins e revistas); c) Estudos de coorte; d) Estudos de casos e controles; e) Ensaios clínicos controlados e f) Notificação espontânea. O sistema mais estendido internacionalmente para detecção e quantificação de reações adversas é a notificação espontânea de casos clínicos de suspeita de reações adversas a medicamentos. (VALSECIA, 1998).
+
+As informações são obtidas por meio de notificações recebidas dos centros nacionais. Os formulários de notificações são praticamente iguais em todos os países. O que varia geralmente de um para outro é o tipo de reação notificada e os profissionais que notificam. Nestes formulários são registrados sexo, idade, descrição da reação adversa, informações sobre os medicamentos administrados (com menção de suas doses e posologia de administração, assim como data de início e final da administração e indicação do seu motivo) e outros dados sobre reexposição e desenvolvimento das complicações (MENON _et al.,_ 2005).
+
+A terminologia internacional atualmente aceita para relatar reações adversas a medicamentos é a Terminologia para Reações Adversas da OMS (WHO&#39;s _Adverse Reaction Terminology_ – WHO-ART). Esta terminologia é hierárquica, e liga classes de órgãos e sistemas a três tipos de termos: termos de &quot;alto nível&quot; de significado amplo, termos &quot;preferidos&quot; que são mais específicos e relacionados às patologias e sintomas, e, finalmente, termos alternativos &quot;incluídos&quot; usados mais frequentemente, e sinônimos verdadeiros (WHO, 1992).
+
+Intenciona-se usar esta terminologia (WHO-ART) juntamente com a terminologia geral das doenças, da Classificação Internacional de Doenças (CID – _International__Classification of Diseases_). O trabalho vem sendo realizado para conectar essas classificações, para que o WHO-ART venha a se tornar um subconjunto da CID (EDWARDS; ARONSON, 2000).
+
+Outra iniciativa para descrever reações adversas a medicamentos é a terminologia médica para as autoridades reguladoras de medicamentos **(**MedDRA - _M __edical_ _Terminology for D__ rug_ _R __egulatory_ _A__ uthorities_). Esta terminologia inclui termos históricos do WHO-ART, CID-9, e COSTART_( __Coding Symbols for a Thesaurus of Adverse Reaction__ Terms_), utilizado no passado pelo FDA (EDWARDS; ARONSON, 2000).
+
+No entanto, a compatibilidade entre CID e WHO-ART esta longe de ser completa, visto que o MedDRA tem mais termos e outro nível em sua hierarquia, de modo que as ligações entre os termos podem ser diferentes daquelas no WHO-ART, mesmo quando há correspondência em termos individuais (EDWARDS; ARONSON, 2000).
+
+Publicações recentes têm dado graduações de gravidade para tipos de reação específicas, especialmente no caso dos eventos adversos em oncologia (por exemplo, os Critérios de Terminologia Comum para Eventos Adversos – CTCAE, também chamados de Critérios de Toxicidade Comum) (EDWARDS; ARONSON, 2000). O CTCAE é publicado pelo Instituto Nacional do Câncer dos EUA, e descreve a gravidade da toxicidade de orgãos para pacientes recebendo terapia anticâncer. A toxicidade é classificada como Leve (grau 1), Moderada (Grau 2), Grave (grau 3), ou com Risco de vida (Grau 4), com parâmetros específicos de acordo com o sistema do órgão envolvido e Morte (Grau 5), que é usado para alguns dos critérios para denotar uma fatalidade (CTCAE, 2010). Embora estes critérios possam ser úteis em alguns casos, tais graduações não tem aceitação internacional, visto que nem sempre é possivel atribuir causalidade ao evento adverso (EDWARDS: ARONSON, 2000).
+
+A classificação farmacológica moderna precursora das reações adversas a medicamentos (RAMs) distingue-as em reações _dose-dependentes_ e _dose__não-dependentes_, que foram chamadas por Rawlins e Thompson (1977), anteriormente de tipo A e tipo B, respectivamente. Mais tarde, para fins de mnemônicos, essas foram rotuladas de &quot;_Aumentada_&quot; e &quot;_B__izarra_&quot;, respectivamente (RAWLINS; THOMPSON, 1981).
+
+As RAMs do Tipo A, compreendem àquelas cujas manifestações resultam do efeito farmacológico exacerbado do medicamento em seu local de ação, da extensão do mecanismo de ação responsável pelo efeito terapêutico ou de efeitos decorrentes de outros mecanismos não relacionados ao alvo da farmacoterapia. Por outro lado, as RAMs do Tipo B não estão relacionadas com o mecanismo de ação do fármaco e por esse motivo são imprevisíveis (MODESTO, 2014).
+
+Posteriormente, foram adicionados mais dois tipos de RAMs: _Reações dose- e tempo-dependentes_ e, as _Reações tardias_, depois chamadas mnemônicamente,C (_C__hronic_) e D (_D__elayed reactions_), respectivamente (GRAHAME-SMITH; ARONSON, 1984). A categoria de _Reações Tardias_, foi novamente dividida em duas: _Reações__Tempo-dependentes_ e _Reações de Retirada do tratamento,_ mnemonicamente chamadas de D (_Delayed_) e E _(Withdrawal ou_ _E__nd__of use_) (ROYER, 1997; EDWARDS; ARONSON, 2000). Mais recentemente, uma sexta categoria foi proposta: _Falha inesperada da terapia_ (_Unexpected_ _F__ailure of therapy_), chamada também de F (HARTIGAN-GO; WONG, 2000).
+
+Naturalmente, nem sempre é possível classificar uma RAM numa destas categorias.A medida que se conheça mais sobre os mecanismos dos efeitos adversos específicos de fármacos, essa classificação será revista ea classificação das reações atualmente inclassificáveis se tornará mais fácil (STEPHENS, 1987; LANCTÔT; NARANJO, 1994; MEYBOOM; ROYER, 1992).
+
+O diagnóstico de uma RAM é parte de um diagnóstico mais amplo em um paciente. Se um paciente está tomando medicamentos, o diagnóstico diferencial deve incluir a possibilidade de uma reação adversa ao medicamento. O primeiro problema é descobrir se um paciente está tomando um medicamento, incluindo: medicamentos isentos de prescição (MIPs); produtos que não podem ser consideradas como medicamentos (tais como ervas ou remédios tradicionais, drogas recreativas, ou drogas de abuso); e tratamentos em longo prazo que o paciente pode esquecer (tal como contraceptivos orais) (STEPHENS, 1987; LANCTÔT; NARANJO, 1994; MEYBOOM; ROYER, 1992).
+
+O próximo passo é saber se o efeito pode ser devido a um medicamento. Se o paciente está tomando vários medicamentos, o problema é distinguir qual, se houver, é o causador. Este problema é complexo, porque algumas das queixas do paciente podem ser devido a outras doenças ou a um ou mais dos fármacos. Existem muitos métodos formais para a atribuição de probabilidade de causalidade para uma suspeita de reação adversa ao medicamento (STEPHENS, 1987; LANCTÔT; NARANJO, 1994; MEYBOOM; ROYER, 1992). Inúmeros esquemas de classificação de causalidade têm sido propostos e utilizados em diferentes países (STEPHENS, 1998; MEYBOOM; ROYER, 1992; WHO, 1991).
+
+A grande maioria dos pesquisadores prefere utilizar a classificação da OMS (ANVISA, 2008; CEATENF, 2014; EDWARDS; ARONSON, 2000), assim dividida: _Certa ou Definida_, quando houver relação temporal plausível, não puder ser explicada por outros medicamentos ou doenças, houver boa resposta à retirada do fármaco, for descrita pela farmacologia do fármaco, se necessário, utilizando testes positivos de reexposição; _Provável_, quando houver relação temporal aceitável, baixa probabilidade de ser causada por outros medicamentos ou doenças, recuperação aceitável após a suspensão, não sendo requerido teste de reexposição; _Possível_, quando houver relação temporal aceitável, houver a possibilidade de ser explicada por outros medicamentos ou doenças e não houver informações sobre a resposta à retirada do tratamento; _Improvável,_ a associação temporal com a administração do medicamento torna uma relação causal improvável e outros medicamentos, substâncias químicas ou doenças subjacentes propiciam explicações plausíveis; _Condicional_, quando forem necessárias maiores informações para avaliar o nexo de causalidade ou quando estiver em processo de avaliação; e _Não Classificável,_ quando o relato de caso for sugestivo de reação adversa, mas as informações são insuficientes ou contraditórias e não podem ser complementadas ou confirmadas no momento (NAGAO-DIAS; TEIXEIRA; COELHO, 2009, UMC/WHO, 2005).
+
+A detecção das RAMs pode ser decisiva para a retirada de fármacos do mercado (VARALLO; MASTROIANNI, 2013).
+
+O farmacêutico em oncologia tem um papel amplo e essencial. Ele pode exercer uma grande variedade de funções, desde atividades administrativas até clínicas, sendo indispensável para a qualidade do processo farmacoterapêutico. A administração segura de medicamentos é muito relevante na oncologia, devido à alta toxicidade dos antineoplásicos e de sua estreita janela terapêutica. Além disso, os regimes quimioterápicos são complexos envolvendo muitos medicamentos em doses variadas, dependendo da neoplasia a ser tratada e das particularidades de cada indivíduo.
+
+O estudo dos eventos adversos na quimioterapia é essencial para o acompanhamento dos pacientes submetidos a tal tratamento. Assim, procuramos com esse trabalho avaliar a prevalência desses efeitos nos pacientes submetidos aos protocolos de quimioterapia para tumores do sistema nervoso central no Serviço de Onco-Hematologia Pediátrica (SOHP) do Hospital Infantil Albert Sabin (HIAS).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**3 OBJETIVOS**
+
+** **
+
+**3.1. Objetivo geral**
+
+Avaliar os eventos adversos dos quimioterápicos utilizados no tratamento dos pacientes com neoplasias do Sistema Nervoso Central do Centro Pediátrico do Câncer do Hospital Infantil Albert Sabin (CPC-HIAS) no período entre janeiro de 2007 e dezembro de 2010.
+
+**3.2. Objetivos específicos**
+
+1. Avaliar a frequência de eventos adversos, através de análise estatística, dos fármacos utilizados no tratamento quimioterápico dos pacientes com neoplasias do Sistema Nervoso Central do CPC-HIAS no período entre janeiro de 2007 e dezembro de 2010.
+2. Comparar a prevalência encontrada dos eventos adversos dentre os pacientes em quimioterapia antineoplásica para tumores do Sistema Nervoso Central do CPC-HIAS no período entre janeiro de 2007 e dezembro de 2010 com a prevalência dos eventos adversos relatada na literatura.
+3. Identificar os protocolos quimioterápicos e seus acompanhamentos com maior toxicidade para as células não cancerosas, que representam risco de vida e apresentar possíveis soluções para este problema.
+
+**4 MATERIAIS E MÉTODOS**
+
+_4.1 Delineamento do estudo_
+
+O estudo envolveu levantamento de literatura, busca retrospectiva no banco de dados do Centro Pediátrico do Câncer (CPC) – HIAS e análise dos resultados obtidos. É transversal retrospectivo, sendo avaliados os eventos adversos relacionados ao tratamento quimioterápico dos pacientes com neoplasias do Sistema Nervoso Central do CPC–HIAS, no período entre janeiro de 2007 e dezembro de 2010.
+
+_4.2 Período e local do estudo_
+
+O estudo foi realizado no CPC–HIAS, situado na cidade de Fortaleza (CE), durante o período agosto de 2014 a julho de 2015.
+
+O Hospital Infantil Albert Sabin é um hospital estatal, subordinado à Secretaria de Saúde do Estado do Ceará, que tem como missão prestar assistência segura e humanizada às crianças e adolescentes. Foi inaugurado em 26 de dezembro de 1952 com o nome de Hospital Infantil de Fortaleza, sendo o primeiro hospital voltado para este público a ser inaugurado na cidade, oferecendo serviços de pediatria geral, assistência materno-infantil e neurologia. Em 1976 foi inaugurada sua sede atual e, em 17 de julho de 1977, foi visitado pelo Dr. Albert Sabin – médico pesquisador russo emigrado para os EUA, tendo sua denominação alterada para Hospital Infantil Albert Sabin.
+
+Atualmente, o HIAS é o único hospital infantil terciário do Estado que, além de ser referência Norte/ Nordeste no atendimento pediátrico de doenças graves e de alta complexidade, também é reconhecido como instituição de ensino e pesquisa. Oferece serviços de emergência clínica, ambulatório com 28 especialidades médicas, unidades de terapia intensiva e neonatais, centro cirúrgico, laboratórios clínico e de imagem, além de um centro especializado em tratamento e serviço de diagnóstico do câncer, o Centro Pediátrico do Câncer (CPC).
+
+_4.3 População/ Amostra_
+
+O presente estudo incluiu pacientes entre 0 e 18 anos, portadores de tumores do sistema nervoso central (SNC), que iniciaram tratamento quimioterápico no CPC–HIAS entre janeiro de 2007 e dezembro de 2010. Os pacientes portadores de tumor cerebral que foram submetidos à quimioterapia receberam vários esquemas de tratamento, porém os mais frequentes foram: 1) ensaio COG-A9952 (carboplatina 175mg/m2 e vincristina 1,5mg/m2 semanais) (ATER, 2012) e 2) SOBOPE 1998 (carboplatina 120mg/m2 (4 doses) e vincristina 1,5mg/m2 (6 doses) concomitantes com RT cranio-espinhal, seguidos de ciclos mensais de ifosfamida 1,8g/m2 e etoposido 100mg/m2 (5 dias), alternados com ciclos mensais de carboplatina 500mg/m2 e vincristina 1,5mg/m2, num total de 6 ciclos) (EPELMAN,1998). Os critérios de exclusão dos pacientes foram: histopatológico de tumor do SNC benigno pela classificação da OMS (os gliomas grau I e II foram incluídos, pois a OMS os considera tumores de comportamento incerto e muitas vezes são tratados com QT), ou a não realização de tratamento quimioterápico.
+
+_4.4 Definição das Variáveis do Estudo_
+
+Foram avaliados nesse estudo, através de formulário preenchido com os dados dos prontuários dos pacientes, a frequência, nas crianças em vigência de quimioterapia, de: anemia, plaquetopenia, neutropenia, infecção, mucodermatite, alterações hepáticas, alterações renais, alterações do trato gastrointestinal (náuseas, vômitos, obstipação, etc), pancreatite, alopecia. Além disso, também, a ocorrência de transfusões de concentrado de hemácias e concentrado de plaquetas, como consequência das desordens hematológicas.
+
+Foram também estudados os protocolos de tratamento utilizados pelo HIAS, que incluem quimioterapia, radioterapia e cirurgias de ressecção. Oito protocolos de quimioterapia são utilizados, porém os mais comuns foram o COG-A9952 (utilizado para gliomas de baixo grau – doses de carboplatina e vincristina semanais), o SLAOP (tratamento de meduloblastoma de alto risco – QT pré-RT com cisplatina, vincristina, etoposido e ciclofosfamida) e o SOBOPE 1998 (tratamento de meduloblastoma de alto risco – QT pré-RT com carboplatina, vincristina, etoposido e ifosfamida); porém foram utilizados também o CCG-9961 (combinação de cisplatina, ciclofosfamida, etoposido e vincristina, a fim de reduzir a dose de RT em meduloblastoma não metastático) e o COG-A99701 (carboplatina/RT diária e manutenção com altas doses de ciclofosfamida, a fim de aumentar a sobrevida em pacientes com meduloblastoma metastático).
+
+A classificação usada para categorizar os eventos adversos foi aquela traduzida dos critérios comuns de toxicidade (CCT) do _National Cancer Institute_ (SAAD, 2002). Não foi realizada avaliação de causalidade dos eventos adversos observados, baseado no fato de que estes são tão comuns em quem recebe quimioterápicos antineoplásicos que são praticamente considerados inevitáveis (LAU; STEWART; DOOLEY, 2004). Somente foram anotados os eventos adversos relatados durante o período de tratamento com quimioterapia antineoplásica, excetuando-se complicações tardias que podem previsivelmente ocorrer após o uso destas medicações (por ex., perda auditiva).
+
+_4.5 Coleta de dados_
+
+A coleta de dados foi realizada através do estudo retrospectivo dos formulários preenchidos com os dados dos prontuários dos pacientes entre 0 e 18 anos, portadores de tumores do SNC, que iniciaram tratamento quimioterápico no CPC–HIAS, entre janeiro de 2007 e dezembro de 2010.
+
+_4.6 Análise dos Resultados_
+
+Foi realizada a análise de frequências dos grupos de eventos adversos. Estes dados foram usados para montar um perfil epidemiológico para avaliar a prevalência total e por grupos de eventos adversos na população de pacientes estudada.
+
+O programa estatístico utilizado foi o Excel 2003.
+
+Os resultados obtidos foram descritos em valores absolutos e em percentagens e comparados com dados da literatura referentes a cada variável.
+
+_4.7 Aspectos Éticos_
+
+A pesquisa cumpriu os requisitos da Resolução nº 466/12 da Comissão Nacional de Ética em Pesquisa (CONEP), do Conselho Nacional de Saúde e suas complementares. Foram utilizados os materiais e dados coletados exclusivamente para os fins previstos no protocolo.
+
+O presente estudo faz parte de um projeto mais abrangente aprovado pelo Comitê de Ética em Pesquisa (CEP) do Hospital Infantil Albert Sabin, atualmente em andamento, intitulado AVALIAÇÃO DO TRATAMENTO DE TUMORES CEREBRAIS PEDIÁTRICOS NO HOSPITAL INFANTIL ALBERT SABIN ENTRE 2007–2010 (CAAE: 26609514.4.0000.5042, número do parecer 530.777).
+
+As informações coletadas nos prontuários somente foram utilizadas para os objetivos da pesquisa, sendo guardado sigilo e preservado o anonimato dos pacientes.
+
+A pesquisa foi iniciada após aprovação da coordenadora do CPC–HIAS, Dra. Selma Lessa Castro, ciente e de acordo com o trabalho de pesquisa.
+
+O estudo seguiu os princípios _prima facie_ da bioética, configurados na ideia de autonomia, não maleficência, beneficência e justiça; conforme a Resolução nº 466/12 da Comissão Nacional de Ética em Pesquisa (CONEP), do Conselho Nacional de Saúde.
+
+**5 RESULTADOS**
+
+Entre janeiro de 2007 e dezembro de 2010, 145 pacientes pediátricos, entre crianças e adolescentes até 18 anos, foram diagnosticados com um tumor primário do SNC no Centro Pediátrico do Câncer (CPC–HIAS). Deste total, 91 pacientes receberam esquemas de quimioterapia (QT), sendo que 61 pacientes receberam QT adjuvante (após a cirurgia) e 30 receberam QT _up-front_ (como primeira terapia). Ao todo, 8 esquemas (protocolos) diferentes de QT foram utilizados, porém os mais frequentes foram: o baseado no ensaio COG-A9952 (47 pacientes), o baseado no ensaio da _Sociedad Latinoamericana de Oncología Pediátrica_ (SLAOP) (GAJJAR, 1999) (19 pacientes) e o baseado no ensaio SOBOPE 1998 (15 pacientes).
+
+Do total de 91 pacientes que receberam QT, 60 receberam também radioterapia (RT), sendo que aqueles que foram tratados com base no ensaio SOBOPE 1998 fizeram RT concomitante com QT. Adicionalmente, 32 pacientes receberam um segundo curso de QT, 10 pacientes do total foram reoperados e 3 receberam um segundo tratamento com RT ao longo de seu acompanhamento. Nove pacientes receberam até 4 esquemas diferentes de QT, em sequência, após falha do tratamento anterior.
+
+Neste universo de pacientes politratados, foram relatados eventos adversos associados à QT em 53 pacientes (58,2% do total de 91 tratados com QT). Em relação aos grupos de eventos adversos, 28,6% dos pacientes apresentou neutropenia (\&lt;1000/mm3), 25,3% teve anemia (Hb \&lt; 8,0 g/dl), 24,2% teve plaquetopenia (\&lt;150000/mm3) e, como consequência destes efeitos, 19,8% necessitou de transfusões de concentrado de plaquetas e 18,7% necessitou de transfusão de hemácias. Também observou-se que 24,2% cursaram com infecção grau 3-4, 11% apresentou convulsão, 11% foi diagnosticado com sangramento cerebral, 11% apresentou reação infusional provavelmente devida à carboplatina (alergia). Outros eventos adversos foram encontrados em frequências menores (Tabela 1).
+
+Do grupo de 91 pacientes, 15 (16,5%) foram a óbito, devido a complicações no tratamento quimioterápico ou na cirurgia, estando excluídos os que foram a óbito exclusivamente por progressão da doença. Destes 15 pacientes, apenas um apresentou recidiva que necessitou de novo tratamento com QT, enquanto outros 3 apresentavam progressão de doença no momento do óbito. Todos os pacientes que faleceram haviam realizado pelo menos 1 cirurgia e onze receberam, adicionalmente, RT. A maior parte deste grupo de 15 pacientes recebeu QT segundo o ensaio SLAOP (5 pacientes), seguindo-se os que foram tratados segundo o ensaio SOBOPE 1998 (4 pacientes) e os que receberam tratamento baseado no ensaio COG-A9952 (3 pacientes), ou outros esquemas (3 pacientes, em 2 esquemas diferentes).
+
+Uma análise em subgrupos de pacientes não foi possível devido ao número insuficiente da amostragem.
+
+**Tabela 1** : Número de pacientes que relataram eventos adversos (total de 53) e frequência destes relatos, relacionados à quimioterapia no presente estudo, divididos por grupos.
+
+| Grupo de eventos adversos | Número de pacientes | Frequência (%) |
+| --- | --- | --- |
+| Neutropenia¹ | 26 | 28,6 |
+| Anemia¹ | 23 | 25,3 |
+| Plaquetopenia¹ | 22 | 24,2 |
+| Transfusão de hemácias² | 17 | 18,7 |
+| Transfusão de plaquetas² | 18 | 19,8 |
+| Infecção¹ | 22 | 24,2 |
+| Alergia | 10 | 11 |
+| Convulsão | 10 | 11 |
+| Sangramento SNC | 10 | 11 |
+| Neurológico (outros) | 6 | 6,6 |
+| Cardiovascular | 5 | 5,5 |
+| Endócrino | 4 | 4,4 |
+| Gastrointestinal | 3 | 3,3 |
+| Alopecia | 3 | 3,3 |
+| Perda auditiva | 1 | 1,1 |
+
+¹Os eventos adversos hematológicos e o grupo infecção incluíram apenas eventos grau 3-4 pela classificação dos CCT (SAAD, 2002). Os demais grupos incluem eventos graus 1 a 4.
+
+²Não constituem eventos adversos, porém são consequência de eventos adversos hematológicos mais severos, que impediam a quimioterapia.
+
+
+
+**6 DISCUSSÃO**
+
+Os ensaios clínicos contemporâneos de tratamento de crianças e adolescentes com tumores primários do SNC reportam uma incidência de eventos adversos bastante significativa. Ater _et al._ (2012) relataram uma incidência cumulativa de 94% de neutropenia, 21% de plaquetopenia, 35% de anemia, 23% de infecção, 10% de alergia e uma frequência menor de outros eventos adversos para o ensaio COG-A9952. Neste protocolo, onde os pacientes fizeram QT a fim de adiar a necessidade de RT, a incidência de alergia foi relacionada exclusivamente à carboplatina. Em um estudo Fase III, Packer _et al._ (2006) referiram 98% de toxicidade hematológica, 30% de infecção, 12% de distúrbios hidroeletrolíticos e 23% de perda auditiva em pacientes com meduloblastoma risco standard que receberam RT e cisplatina, ciclofosfamida e vincristina no ensaio CCG-9961. Neste esquema, o uso de doses cumulativas elevadas de cisplatina associou-se a uma incidência de perda auditiva grave. Em um ensaio fase I/II que tratou pacientes com meduloblastoma de alto risco com carboplatina, ciclofosfamida e vincristina, Jakacki e cols. (2012) reportaram 89% de neutropenia, 53% de plaquetopenia e 25% de infecção.
+
+O protocolo da SLAOP incluiu pacientes com meduloblastoma de alto risco e usou uma abordagem de QT pré-RT com cisplatina, vincristina, etoposido e ciclofosfamida (GAJJAR, 1999). Já o protocolo SOBOPE 1998 usou carboplatina e ifosfamida no lugar da cisplatina e ciclofosfamida. Esse estudo envolveu o uso de RT e QT concomitantes (radiosensibilizante). Pode-se prever que o perfil de toxicidade de pacientes submetidos a estes dois protocolos seja diferente (EPELMAN, 1998). Não foi possível fazer análise comparativa entre tratamentos diversos em nossa avaliação devido ao número insuficiente de casos com eventos adversos e número total de casos em cada tratamento.
+
+De uma forma geral, aparentemente, nossos resultados mostram uma frequência de eventos adversos menor do que o esperado pelos dados dos ensaios clínicos publicados. Uma das razões mais prováveis para isso é o viés de relato, uma vez que a coleta de dados foi retrospectiva. É possível que nem todos os eventos ocorridos tenham sido anotados no prontuário dos pacientes. Uma indicação deste fato é a baixa frequência de eventos gastrointestinais (náuseas, vômitos, obstipação, etc) e de alopecia relatada neste estudo (Tabela 1). Como espera-se uma incidência elevada destes eventos, o mais provável é que não tenham sido valorizados pelos profissionais assistentes e tenham deixado de ser anotados devidamente. Mesmo assim, as frequências obtidas neste estudo indicam uma incidência significativa de eventos adversos relacionados à QT nesse grupo selecionado de pacientes.
+
+As reações atribuídas à carboplatina ocorreram durante sua infusão e seguiram o padrão descrito na literatura de alergia a este fármaco. É sabido que até 30% dos pacientes que recebem carboplatina podem desenvolver alergia (PACKER, 1997; ATER, 2012). Já a baixa frequência de ototoxicidade pode ter se devido ao fato de que a maioria dos pacientes usou esquemas com carboplatina no lugar de cisplatina. O estudo de pacientes tratados mais recentemente no CPC-HIAS, após a adoção de esquemas que voltaram a usar cisplatina, pode esclarecer esse ponto.
+
+A ocorrência de eventos de sangramento cerebral é digna de nota e pode ser multifatorial. Complicações cirúrgicas, plaquetopenia, coagulopatia e o uso de antiepilépticos podem estar associadas a este grupo de eventos. Durante o período estudado, utilizou-se a profilaxia rotineira de epilepsia. O medicamento escolhido para ser usado de rotina foi o ácido valpróico, pois o mesmo não interfere significativamente com o metabolismo de quimioterápicos anticâncer, ao contrário de fármacos como o fenobarbital e fenitoína, indutoras enzimáticas hepáticas (WELLS; GAILLARD; PACKER, 2012). Um ensaio fase I recente mostrou que o tratamento de crianças com tumores cerebrais com ácido valpróico pode potencialmente aumentar a incidência de sangramento cerebral (SU _et al.,_ 2011). O ácido valpróico pode induzir plaquetopenia e eventos adversos já foram reportados após seu uso concomitante com QT (BOURG _et al._, 2001).
+
+Em relação ao número de pacientes que faleceram possivelmente por complicações do  tratamento, o fato de realizar cirurgia neurológica e RT são comorbidades importantes que podem contribuir para este desfecho. Todavia, como a toxicidade hematológica é a mais frequente nestes pacientes, pode-se conjecturar que se trata do principal fator de risco de mortalidade. Ater _et al._ (2012) não relataram nenhum óbito por toxicidade no ensaio COG-A9952, enquanto que Packer _et al._ (2006) referiram apenas 2 óbitos aparentemente por complicações do tratamento e Jakackie cols. (2012) observaram nenhum óbito. A grande maioria dos pacientes que foram a óbito haviam recebido os protocolos da SLAOP e SOBOPE 1998 (9 de 15, 60%). O fato de terem recebido terapia multimodalidade em sua quase totalidade e de uma parte significativa ter doença recorrente ou progressiva (4 de 15, 27%) certamente contribuiu para o desfecho. Mesmo assim, o número elevado de óbitos contrasta com os dados publicados de ensaios internacionais. Uma característica que ajuda a explicar o aparente paradoxo entre total de eventos adversos relatados (relativamente baixo) e número de óbitos por complicações do tratamento (significativamente elevado) pode ser o fato de que o número de óbitos raramente é subnotificado, ao contrário da frequência de eventos adversos.
+
+**7 CONCLUSÃO**
+
+Um número significativo de pacientes apresentou eventos adversos durante o período em que realizou tratamento com quimioterapia anticâncer para tumores primários do SNC no serviço hospitalar onde a pesquisa foi realizada (53 de 91 pacientes, 58,2%). A toxicidade mais frequente foi hematológica (28,6%), seguida de infecção (24,2%). Estes dados contrastam com dados de ensaios clínicos da literatura, provavelmente devido à subnotificação. Reações alérgicas ocorreram em 11% de todos os pacientes, exclusivamente associadas ao uso de carboplatina, confirmando a tendência desta medicação de induzir este efeito. Apenas um paciente desenvolveu perda auditiva após o tratamento, atribuível ao uso de quimioterapia. Esta baixa incidência pode ser explicada, em parte, pelo uso mais frequente de carboplatina no lugar de cisplatina, esta última associada à prejuízo auditivo na literatura. Uma quantidade significativa (11%) de pacientes apresentou sangramento cerebral, o qual pode ter causas multifatoriais, mas pode estar associado ao uso de ácido valpróico como profilático de crises epilépticas pelos pacientes. Uma quantidade elevada de pacientes (16,5%) faleceu em decorrência de eventos adversos, o que pode estar associado aos protocolos de tratamento da SOBOPE 1998 e da SLAOP.
+
+Estes resultados sugerem uma avaliação mais precisa da provável subnotificação de eventos adversos e uma revisão do uso de ácido valpróico como medicamento antiepiléptico de uso rotineiro. Igualmente, uma revisão dos esquemas de tratamento baseados nos ensaios SOBOPE 1998 e SLAOP poderia ser sugerida, a fim de tentar minimizar os riscos de óbitos por eventos adversos.
+
+As principais limitações deste trabalho foram: o fato de ser retrospectivo, as restrições das informações colhidas para a realização de uma análise mais profunda de causalidade, em sua maioria causadas pela subnotificação dos eventos adversos que certamente ocorrem em qualquer paciente com neoplasia e em quimioterapia ou radioterapia, como os efeitos gastrintestinais e hematológicos. A expansão deste trabalho para um período maior a fim de incluir maior número de pacientes e de eventos adversos poderia permitir uma análise comparativa de subgrupos.
+
+
+
+
+
+**REFERÊNCIAS**
+
+AMERICAN ACADEMY OF PEDIATRICS COMMITTEE ON DRUGS (AAP). &quot;Inactive&quot; ingredients in pharmaceutical products: update (subject review). **Pediatrics** , v.99, n.2, p.268-278, 1997.
+
+ATER, J. L. _et al_. Randomized study of two chemotherapy regimens for treatment of low-grade glioma in young children: a report from the Children&#39;s Oncology Group. **Journal of Clinical Oncology** , v. 30, n. 21, p. 2641-2647, 2012.
+
+ALMEIDA V. L. _et al_. Câncer e Agentes Antineoplásicos ciclo-celular específicos e ciclo-celular não específicos que interagem com o DNA: uma introdução. **Química Nova** , v. 28, n. 1, p. 118-129, 2005.
+
+ANVISA. AGENCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (ANVISA), . **Projeto Farmácias Notificadoras** , 2016. Disponível em: \&lt;http://portal.anvisa.gov.br/wps/content/Anvisa+Portal/Anvisa/Pos+-+Comercializacao+-+Pos+-+Uso/Farmacovigilancia/Assunto+de+Interesse/Farmacias+Notificadoras/01+Projeto +Farmacias+Notificadoras\&gt; Acesso em: 19 jan. 2016.
+
+ANVISA. AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (ANVISA). Diretrizes para o Gerenciamento do Risco em Farmacovigilância. Brasil, 2008. Disponível em: \&lt;http://portal.anvisa.gov.br/wps/wcm/connect/4140a10047cd94dc9845fed498087ae1/Diretrizes\_para\_o\_GRFV.pdf?MOD=AJPERES\&gt;. Acesso em 20 jan. 2016.
+
+ARAUJO, O. L. _et al_. Analysis of survival and prognostic factors of pediatric patients with brain tumor.  **Jornal de Pediatria** , v. 87, n. 5, p. 425-432, 2011.
+
+ARRAIS, P. S. D. Farmacovigilância: até que enfim no Brasil! **Saúde em Debate**. Londrina, v. 49/50, p. 80-82, 1996.
+
+ARRAIS, P. S. D. O uso irracional de medicamentos e a Farmacovigilância no Brasil. **Caderno de Saúde Pública**. Rio de Janeiro, v. 18, p. 1478-1479, 2002.
+
+BALDO, P.; PAOLI, P. Pharmacovigilance in oncology: evaluation of current practice and future perspectives. **Journal of Evaluation in Clinical Practice** , v. 20, p. 559–569, 2014.
+
+BLANEY, S. M. _et al_. Tumors of the Central Nervous System. In: PIZZO, P. A., POPLACK, D. G., editors. **Principles &amp; Practice of Pediatric Oncology** , 5th edition. Philadelphia: Lippincot Williams &amp; Wilkins; 2006. 1729 p.
+
+BOURG, V. _et al_. Nitroso-urea-cisplatin-based chemotherapy associated with valproate: increase of  haematologic toxicity. **Annals of Oncology,** v. 12, n. 2, p. 217-219, 2001.
+
+BRASIL. Ministério da Saúde. Mensagem aos Médicos. Câncer Fundamentos. Brasília: Secretaria de Assistência Médica-Divisão Nacional de Câncer, p.7-47, 1971.
+
+BROWN, K. Presenting brain tumour statistics to the public: unravelling complexity. In: _NCIN Cancer Outcomes Conference, BRIGHTON, UK, 2013_. National Cancer Intelligence Network, London, UK.
+
+CAMARGO, B. _et al_. Cancer incidence among children and adolescents in Brazil: first report of 14 population-based cancer registries. **International Journal of Cancer** , v. 126, p. 715–720, 2010.
+
+CAVACO, P. _et al_. Pharmacotherapeutic follow-up in oncology. **European Journal of Hospital Pharmacy** , v. 19, 2012.
+
+CBTRUS (2012). CBTRUS Statistical Report: Primary Brain and Central Nervous System Tumors Diagnosed in the United States in 2004-2008 (March 23, 2012 Revision). Disponível em: Central Brain Tumor Registry of the United States, Hinsdale, IL \&lt;www.cbtrus.org\&gt;. Acesso em: 15 jan. 2016.
+
+CHABNER, B. A. Princípios gerais da quimioterapia do câncer. In: BRUNTON, L. L.; CHABNER, B. A.; KNOLLMANN, B. C. **As Bases Farmacológicas da Terapêutica de Goodman &amp; Gilman.** Porto Alegre: McGraw Hill Brasil, 2014. p. 1667-1675.
+
+CHABNER, B. A. _et al_. Agentes citotóxicos. In: BRUNTON, L. L.; CHABNER, B. A.; KNOLLMANN, B. C. **As Bases Farmacológicas da Terapêutica de Goodman &amp; Gilman.** Porto Alegre: McGraw Hill Brasil, 2014. p. 1677-1729.
+
+CHU, E.; SARTORELLI, A. C. Quimioterapia do Câncer. In: KATZUNG, B. G.; MASTERS, S. B.; TREVOR, A. J. **Farmacologia Básica e Clínica**. Porto Alegre: McGraw Hill Brasil, 2014. p. 949-975.
+
+COÊLHO, H. L.; ARRAIS, P. S. D.; GOMES, A. P. Sistema de Farmacovigilância do Ceará: um ano de experiência. **Caderno de Saúde Pública** , Rio de Janeiro, v. 15, n. 3, p. 631-640, 1999.
+
+COYLE B. _et al_. ABCB1 in children&#39;s brain tumours. **Biochemical Society Transactions**. v. 43, n. 5, p. 1018-1022, 2015.
+
+.
+
+CTCAE. 2010. Common Terminology Criteria for Adverse Events, v 4.0, Published: May 28, 2009 (updated v 4.03: June 14, 2010). National Cancer Institute, Institutes of Health, NIH, Publication n. 09-5410.
+
+DELL&#39;AERA, M. _et al_. Unlicensed and off-label use of medicines at a neonatology clinic in Italy. **Pharmacy World &amp; Science** , v. 29, n. 4, p. 361-367, 2007.
+
+DIAS M. F. Introdução à Farmacovigilância. In: STORPIRTIS, S. _et al_. **Farmácia Clínica e Atenção Farmacêutica**. Rio de Janeiro: Guanabara Koogan, 2008. p. 46.
+
+DIAS, M. F. _et al_. Fontes de notificação em farmacovigilância. **Revista Fármacos e Medicamentos**. São Paulo, v. 34, n. 6, p. 12–20, 2005.
+
+EDWARDS, I. R. Pharmacovigilance – beyond 2000. **Reactions** , v. 1, n. 783, p. 3-5, 2000.
+
+EDWARDS, I. R.; ARONSON, J. K. Adverse drug reactions: definitions, diagnosis, and management. **The Lancet** , v. 356, p. 1255-1259, 2000.
+
+EPELMAN, S. Protocolo de Tratamento. Pacientes com meduloblastoma e tumor neuroectodérmico primitivo de fossa posterior. Riscos: baixo e intermédio. Sociedade Latino-americana de Oncologia Pediátrica. Sociedade Brasileira de Oncologia Pediátrica, São Paulo - SP, 1998.
+
+FATTAHI, F. _et al._ Adverse drug reactions in hospitalized children in a department of infectious diseases. **The Journal of Clinical Pharmacology** , v. 45, n. 11, p. 1313-1318, 2005.
+
+FLORES, L. E. _et al_. Delay in the diagnosis of pediatric brain tumors. **American Journal of Diseases of Children** , v. 140, n. 7, p. 684-686, 1986.
+
+FRITZ, A. _et al._ (eds). ICD-O International Classification of Diseases for Oncology. World Health Organization, Geneva, 2000.
+
+GAJJAR, A. _et al_. Chemotherapy of medulloblastoma. **Child&#39;s Nervous System** , v. 15, n. 10, p. 554-562, 1999.
+
+GAN, G.; HAAS-KOGAN, D. Low-Grade Gliomas.,in In GUPTA, N. _et al_. [Editors]. **Pediatric CNS Tumors** , Pediatric Oncology [Series], Springer Berlin Heidelberg, 2012. p. 1-35.
+
+GEYER, J. R.; BERGER, M. Central nervous system malignancies in children. **New York State Journal of Medicine** , v. 90, n. 12, p. 601-608, 1990.
+
+GEYER, J. R. _et al_. Multiagent chemotherapy and deferred radiotherapy in infants with malignant brain tumors: a report from the Children&#39;s Cancer Group. **Journal of Clinical Oncology,** v. 23, n. 30, p. 7621-7631, 2005.
+
+GANDHI, T. K. _et al_. Medication safety in ambulatory chemotherapy setting. **Cancer** , v.104, n.11, p.2477-2483, 2005.
+
+GURNEY, J. G. _et al_. Incidence of cancer in Children in the United States. **Cancer** , n. 75, p. 2186-2195, 1995.
+
+GURNEY, J. G.; SMITH, M. A.; BUNIN, G. R. CNS and Miscellaneous Intracranial and Intraspinal Neoplasms. In: RIES, L. A. G. _et al_. **Cancer Incidence and Survival among Children and Adolescents** : United States SEER Program 1975-1995, National Cancer Institute, SEER Program. NIH Pub. No. 99-4649. Bethesda, MD, 1999.
+
+GRAHAME-SMITH, D. G.; ARONSON, J. K. Adverse drug reactions. In: **The Oxford textbook of clinical pharmacology and drug therapy**. Oxford: Oxford University Press, 1984. p. 132–57.
+
+HAMMOND, G. D. **The Cure of childhood Cancers. Cancer** (suppl), Philadelphia: 1996. n. 58, p. 407-413.
+
+HARTIGAN-GO, K. Y.; WONG, J. Q. Inclusion of therapeutic failures as adverse drug reactions. In: ARONSON, J. K., ed. **Side Effects of Drugs Annual** : A worldwide yearly survey of new data and trends in adverse drug reactions. Amsterdam: Elsevier. v.23, 2000. 592p.
+
+INSTITUTO NACIONAL DE CÂNCER JOSÉ ALENCAR GOMES DA SILVA (INCA). **Diagnóstico precoce do câncer na criança e no adolescente. Instituto Nacional de Câncer** , Instituto Ronald McDonald. – Rio de Janeiro: INCA, 2009. 114 p.
+
+INSTITUTO NACIONAL DE CÂNCER JOSÉ ALENCAR GOMES DA SILVA (INCA). **Câncer da Criança e no Adolescente no Brasil:** dados dos registros de base populacional e de mortalidade. Rio de Janeiro: INCA, 2008. 220 p.
+
+INSTITUTO NACIONAL DE CÂNCER JOSÉ ALENCAR GOMES DA SILVA (INCA). **Câncer no Brasil** : Dados dos Registros de Base Populacional, Rio de Janeiro: INCA, v. 4, 2010.
+
+INSTITUTO NACIONAL DE CÂNCER JOSÉ ALENCAR GOMES DA SILVA (INCA). **O que é câncer**. Disponível em: \&lt;http://www2.inca.gov.br/wps/wcm/connect/cancer/site/oquee\&gt;. Acesso em: 15 jan. 2016.
+
+JAKACKI, R. I. _et al_. Outcome of children with grametastatic medulloblastoma treated with carboplatin during craniospinal radiotherapy: a Children&#39;s Oncology Group Phase I/II study. **Journal of Clinical Oncology.** V. 30, n. 21, p. 2648-2653, 2012.
+
+JONVILLE-BÉRA, A. P. _et al_. Frequency of adverse drug reactions in children: A prospective study. **British Journal of Clinical Pharmacology** , v. 53, n. 2, p. 207-210, 2002.
+
+KELLIE, S. J. Chemotherapy of central nervous system tumours in infants. **Child&#39;s Nervous System** , v. 15, p. 592-612, 1999.
+
+LANCTÔT K. L.; NARANJO C. A. Computer-assisted evaluation of adverse events using a Bayesian approach. **Journal of Clinical Pharmacology** , v. 34, n. 2, p. 142-147, 1994.
+
+LAU, P. M.; STEWART, K.; DOOLEY, M. The ten most common adverse drug reactions (ADRs) in oncology patients: do they matter to you?. **Support Care Cancer** , v. 12, n. 9, p. 626-633, 2004.
+
+LIEKWEG, A.; WESTFELD, M.; JAEHDE, U. From oncology pharmacy to pharmaceutical care: new contributions to multidisciplinary cancer care. **Support Care Cancer,** v. 12, n. 2, p. 73-79, 2004.
+
+LOUIS, D. N. _et al_ (ed.). The 2007 WHO classification of tumors of the central nervous system. **Acta Neuropathologica,** v. 114, n. 2, p. 97-109, 2007.
+
+MALOGOLOWKIN, M. H. _et al_. Clinical assessment and differential diagnosis of the child with suspect cancer. In: PIZZO, P. A.; POPLACK, D. G. **Principles and practice of pediatric oncology**. 5. ed. Philadelphia: Lippincott Willians &amp; Wilkins; 2006. 1729 p.
+
+MCKINNEY, P. A. Brain tumours: incidence, survival, and aetiology. **Journal of Neurology Neurosurgery Psychiatry** , v. 75, suppl. II, p. ii12–ii17, 2004.
+
+MEYBOOM, R. H. B.; ROYER, R. J. Causality classification at pharmacovigilance centres in the European Community. **Pharmacoepidemiology Drug Safety,** v. 1, p. 87–97, 1992.
+
+MCBRIDE, W. G. Thalidomide and congenital abnormalities. Letter to the editor. **The Lancet,** v. 2, p. 1358, 1961.
+
+MENON, S. Z. _et al_. Reações Adversas a Medicamentos (RAM´s). **Saúde em Revista,** Piracicaba, v. 7, n. 16, p. 71-79, 2005.
+
+MIRANDA V. _et al_. Adverse drug reactions and drug interactions as causes of hospital admission in oncology. **Journal of Pain and Symptom Manage,** v. 42, n. 3, p. 342-353, 2011.
+
+MODESTO, A. C. F. **Reações Adversas a Medicamentos e a Farmacovigilância: Conhecimentos e Condutas de Profissionais de Saúde de um Hospital da Rede Sentinela.** 2014. 116 p. Dissertação (Mestrado em Ensino na Saúde) - Programa de Pós-Graduação em Ensino na Saúde, Universidade Federal de Goiás, Goiânia, 2014.
+
+MUÑOZ, V. A. Oncología Pediátrica: avances y perspectivas. **Revista Espanhola de Pediatria** , Madrid: v. 45, p.245-259, 1989.
+
+NAGAO-DIAS, A. T.; TEIXEIRA, F. M.; COELHO, H. L. L. Diagnosing immune-mediated reactions to drugs. **Allergologia et immunopathologia** , v. 37, n. 2, p. 98-104, 2009.
+
+NATIONAL CANCER INSTITUTE (NIH). **Childhood Astrocytomas Treatment–for health professionals**. Disponível em: \&lt;http://www.cancer.gov/cancertopics/pdq/treatment/child-astrocytomas/HealthProfessional/page4\&gt; Acesso em: 05 abr. 2015.
+
+NEAL, A. J.; HOSKIN, P. J. CNS Tumours. In: \_\_\_\_\_\_. **Clinical Oncology:** Basic Principles and Practice. 4. ed. Boca Raton: Hodder Arnold An Hachette UK Company, 2009. p. 207-224.
+
+NEAL, A. J.; HOSKIN, P. J. Pediatric Cancer. In: \_\_\_\_\_\_. **Clinical Oncology:** Basic Principles and Practice. 4. ed. Boca Raton: Hodder Arnold An Hachette UK Company, 2009. p. 310-324.
+
+OMS. Organização Mundial da Saúde. Departamento de Medicamentos Essenciais e Outros Medicamentos. A importância da Farmacovigilância. Brasília: Organização Pan-Americana da Saúde, 2005.
+
+OMS. Organização Mundial da Saúde. Safety monitoring of medicinal products. The importance of pharmacovigilance. Ginebra: Organización Mundial de la Salud, 2002.
+
+OMS. Promover La Seguridad de los Medicamentos para Niños. OMS 2007. Disponível em: http://whqlibdoc.who.int/publications/2007/9789241563437\_spa.pdf. Acesso em 16 abr. 2015.
+
+OPAS. Organização Panamericana de Saúde. **Termo de referência para reunião do grupo de trabalho** : Interface entre Atenção Farmacêutica e Farmacovigilância. Brasília: OPAS, 2002.
+
+OSTROM, P. T. _et al_. Alex&#39;s Lemonade Stand Foundation Infant and Childhood Primary Brain and Central Nervous System Tumors Diagnosed in the United States in 2007–2011. **Neuro-Oncology** v. 17, p. x1–x35, 2015.
+
+OSTROM, P. T. _et al_. CBTRUS Statistical Report: Primary Brain and Central Nervous System Tumors Diagnosed in the United States in 2007–2011 **. Neuro-Oncology**. v.16, suppl. 4, p. iv1–iv63, 2014.
+
+PACKER, R. J. _et al_. Carboplatin and vincristine chemotherapy for children with newly diagnosed progressive low-grade gliomas. **Journal of Neurosurgery** , v. 86, n. 5, p. 747-754, 1997 **.**
+
+PACKER, R. J. _et al_. Phase III study of craniospinal radiation therapy followed by adjuvant chemotherapy for newly diagnosed average-risk medulloblastoma. **Journal of Clinical Oncology,** v. 24, n. 25, p. 4202–4208, 2006.
+
+PARTAP, S.; FISHER, P. G. Embryonal Tumors., In: GUPTA, N.; BANERJEE, A.; HAAS-KOGAN, D. [Editors]. **Pediatric CNS Tumors** , Pediatric Oncology [Series], Springer Berlin Heidelberg, 2010. p. 89-114.
+
+POLLOCK, B. H.; KNUDSON JUNIOR, A. G. Preventing cancer in adulthood: advice for the pediatrician. In: PIZZO, P. A.; POPLACK, D. G. **Principles and**  **practice**  **Practice**  **of**  **pediatric**  **Pediatric**  **oncology**** Oncology**. 5. ed. Philadelphia: Lippincott Willians &amp; Wilkins, 2006. 1729 p.
+
+RAWLINS, M. D.; THOMPSON, J. W. Pathogenesis of adverse drug reactions. In: DAVIES, D. M., ed. **Textbook of adverse drug reactions** , 2nd ed. Oxford: Oxford University Press, 1981.
+
+ROYER, R. J. Mechanism of action of adverse drug reactions: an overview. **Pharmacoepidemiology and Drug Safety,** v. 6, suppl. 3, p. S43-S50, 1997.
+
+RUTKOWSKI, S. _et al_. Treatment of Early Childhood Medulloblastoma by Postoperative Chemotherapy Alone. **The New England Journal of Medicine** , v. 352, p. 978-986, 2005.
+
+SAAD, E. D. _et al_. Critérios comuns de toxicidade do Instituto Nacional de Câncer dos Estados Unidos. **Revista Brasileira de Cancerologia,** v. 48, n. 10, p. 63-96, 2002.
+
+ 
+
+SANTOS, D. B. _et al_. Off-label and unlicensed drug utilization in hospitalized children in Fortaleza, Brazil. **European Journal of Clinical Pharmacology** , v. 64, n. 11, p. 1111-1118, 2008.
+
+SANTOS, D. B.; COELHO, H. L. L. Reações adversas a medicamentos em pediatria: uma revisão sistemática de estudos prospectivos. ** Revista Brasileira de Saúde Materno Infantil** , Recife, v. 4, n. 4, p. 341-349, 2004.
+
+SCHMIDT-HANSEN, M.; BERENDSE, S; HAMILTON, W. Symptomatic diagnosis of cancer of the brain and central nervous system in primary care: a systematic review. **Family Practice** , v. 32, n. 6, p. 618–623, 2015.
+
+SILVA, A. V. A. _et al_. Presença de excipientes com potencial para indução de reações adversas em medicamentos comercializados no Brasil. **Revista Brasileira de Ciências. Farmacêuticas**. São Paulo, v. 44, n. 3, 2008.
+
+SOUZA N. R. _et al_. Farmacovigilância e Regulação do Mercado de Medicamentos. II Simpósio Brasileiro de Vigilância Sanitária. I Simpósio Panamericano de Vigilância Sanitária - SIMBRAVISA. Caldas Novas, 21 a 24 de novembro 2004. 2004a. DisponÌvel em: \&lt;http://portal.anvisa.gov.br/wps/portal/anvisa/anvisa/posuso/farmacovigilancia/!ut/p/c4/04\_SB8K8xLLM9MSSzPy8xBz9CP0os3hnd0cPE3MfAwN\_Dz8DA09\_c19vrwAXAwMfc\_2CbEdFAHYfhIs!/?1dmy&amp;urile=wcm%3Apath%3A/anvisa+portal/anvisa/pos+-+comercializacao
+
++-+pos+-+uso/farmacovigilancia/publicacoes+farmacovigilancia/8c256300406492a3aa4eeb1 37b78f2dc\&gt; Acesso em: 15 jan. 2016.
+
+SOUZA N. R. _et al_. Farmacovigilância: uma nova experiência com uma rede de hospitais sentinela. VI Congresso Brasileiro de Epidemiologia. Recife 19 a 23 de junho de 2004. 2004b. DisponÌvel em: \&lt;http://portal.anvisa.gov.br/wps/wcm/connect/24d99e004745886b9 1fed53fbc4c6735/congresso\_epidemiologia1.pdf?MOD=AJPERES\&gt;. Acesso em: 15 jan. 2016.
+
+STEPHENS, M. D. B. Definitions and classifications of adverse reaction terms. In: STEPHENS, M. D. B.; TALBOT, J. C.; ROUTLEDGE, P. A. (ed.). **The detection of new adverse reactions** , 4th ed. London: Macmillan Reference, p. 32–44, 1998. 762 p.
+
+STEPHENS, M. D. B. The diagnosis of adverse medical events associated with drug treatment. **Adverse Drug React Acute Poisoning Reviews** , v. 1, p. 1-35, 1987.
+
+STILLER, C. A. Centralization of treatment and survival rates for cancer. **Archives of Disease in Childhood** , Philadelphia, n. 63, p. 23-28, 1988.
+
+STRICKER, T. P.; KUMAR, V. Neoplasia. In: KUMAR, V. _et al_. **Robbins &amp; Cotran Patologia Bases Patológicas das Doenças.** Rio de Janeiro: Elsevier, 2010. p. 259-330.
+
+SU, J. M. _et al_. Phase 1 study of valproic acid in pediatric patients with refractory solid or CNS tumors: a children&#39;s oncology group report. **Clinical Cancer Research,** v. 17, n. 3, p. 589-597, 2011.
+
+TRINDADE, K. M. **Avaliação das Reações Adversas da Quimioterapia nos Tumores Cerebrais no Hospital Infantil Albert Sabin entre 2000-2006**. 2008. Monografia (Graduação em Medicina), Faculdade Estácio de Medicina de Juazeiro do Norte, Juazeiro do Norte, 2008.
+
+UMC. The Uppsala Monitoring Centre. Annual Report, 2015. Disponível em: \&lt;http://www.who-umc.org/graphics/32666.pdf\&gt; Acesso em 19 jan. 2016.
+
+UMC. The Uppsala Monitoring Centre. The Uppsala Monitoring Centre &amp; WHO Collaboriting Centre for International Drug Monitoring. 2005. Disponível em: \&lt;http://www.who-umc.org/DynPage.aspx?id=98078&amp;mn1=7347&amp;mn2=7252&amp;mn3=7322\&gt; Acesso em: 19 jan. 2016.
+
+UMC/ WHO. The Uppsala Monitoring Centre (the UMC)/WHO Collaborating Centre for International Drug Monitoring. Safety monitoring of medicinal products: Guidelines for setting up and running a Pharmacovigilance Centre, Uppsala, Sweden, 2005, 25 pp.
+
+CENTRO DE ESTUDOS EM ATENÇÃO FARMACÊUTICA (CEATENF). Universidade Federal do Ceará (UFC). **Manual de Farmacovigilância**. Fortaleza, 2014.
+
+U.S. Food and Drug Administration (1981). Sulfanilamide Disaster. FDA Consumer magazine. June 1981 Issue, Page Last Updated: 07 Oct. 2010. **Taste of raspberries, taste of death. The 1937 elixir sulfanilamide incident**. Disponível em: \&lt;http://www.fda.gov/AboutFDA/WhatWeDo/History/ProductRegulation/SulfanilamideDisaster/default.htm\&gt; Acesso em: 19 jan. 2016.
+
+VALSECIA, M. Report On The Pharmacovigilance Programe For The Northeast Of Argentina. **Uppsala Reports** , v. 7, 1998.
+
+VARALLO, F. R.; MASTROIANNI, P. C. Farmacovigilância: avaliação do risco/benefício para a promoção do uso seguro de medicamentos. In: MASTROIANNI, P. C.; VARALLO, F. R. (Eds.). **Farmacovigilância para promoção do uso correto de medicamentos**. Porto Alegre: Artmed, 2013. p. 13-26.
+
+VISACRI, M. B. _et al_. Pharmacovigilance in oncology: pattern of spontaneous notifications, incidence of adverse drug reactions and under-reporting.  **Brazilian Journal of Pharmaceutical Sciences** , v. 50, n. 2, p. 411-422, 2014.
+
+VITANZA, N. A.; CHO, Y. J. Advances in the biology and treatment of pediatric central nervous system tumors. **Current Opinion in Pediatrics,** v.28, n. 1, p. 34–39, 2016.
+
+WELLS, E. M.; GAILLARD, W. D., PACKER, R. J. Pediatric brain tumors and epilepsy. **Seminars in Pediatric Neurology,** v. 19, n. 1, p. 3-8, 2012.
+
+WOOLF, A. D. The Haitian diethylene glycol poisoning tragedy: a dark wood revisited. **The Journal of the American Medical Association** , v. 279, p. 1215–1216, 1998.
+
+WORLD HEALTH ORGANIZATION (WHO). **Cancer**. Fact sheet N°297, 2015. Disponível em: \&lt;http://www.who.int/mediacentre/factsheets/fs297/en/\&gt;. Acesso em: 15 jan. 2016.
+
+WORLD HEALTH ORGANIZATION (WHO). **International Drug Monitoring:** the role of national centers. Report of a WHO Meeting. Geneva, 1972. 48 p.
+
+WORLD HEALTH ORGANIZATION (WHO). **International monitoring of adverse reactions to drugs:** Adverse Reaction Terminology. WHO Collaborating Centre for International Drug Monitoring, Uppsala, Sweden, 1992.
+
+WORLD HEALTH ORGANIZATION (WHO). Letter MIO/372/2(A). Geneva: WHO, 1991.
+
+WORLD HEALTH ORGANIZATION (WHO). 2016. **Medicines**. Disponível em: \&lt;http://www.who.int/medicines/areas/quality\_safety/safety\_efficacy/pharmvigi/en/\&gt; Acesso em 19 jan. 2016
+
+WORLD HEALTH ORGANIZATION (WHO). **Safety of medicines** – a guide to detecting and reporting adverse drug reactions – why health professionals need to take actions. Geneva: WHO, 2002.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**ANEXO A**
+
+**INSTRUMENTO DE COLETA DE DADOS**
+
+*
+*
+ 
+**ANEXO A**
+
+**INSTRUMENTO DE COLETA DE DADOS**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**ANEXO A**
+
+**INSTRUMENTO DE COLETA DE DADOS**
+
+
+
+
+
+
+
+
+
+**ANEXO A**
+
+**INSTRUMENTO DE COLETA DE DADOS**
+
+**ANEXO B**
+
+**PARECER CONSUBSTANCIADO DO CEP**
+
+*
+**PARECER CONSUBSTANCIADO DO CEP**
+
+**ANEXO B**
+
+**PARECER CONSUBSTANCIADO DO CEP**
+
+**ANEXO B**
+
+**PARECER CONSUBSTANCIADO DO CEP**
+

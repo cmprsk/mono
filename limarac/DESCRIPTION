@@ -1,0 +1,9 @@
+Package: limarac
+Version: alpha
+Date: 2019-01-05
+Title: Monografia de Rayra Lima
+Description: Resultados, análises e documentos relativos à monografia de Rayra Lima.
+Author: Francisco H C Felix <fhcflx@outlook.com>
+Maintainer: Francisco H C Felix <fhcflx@outlook.com>
+License: MIT + file LICENS
+Imports: rmarkdown, pander, DescTools, reshape
