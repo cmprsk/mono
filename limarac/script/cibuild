@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-git remote set-url origin git@github.com:fhcflx/mono.git
+git remote set-url origin https://fhcflx:$GITHUB_TOKEN@github.com/fhcflx/mono.git
 git fetch origin -f master:master

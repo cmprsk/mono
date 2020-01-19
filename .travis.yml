@@ -9,13 +9,12 @@ addons:
        - libxml2-dev
 
 #before_script:
-#- chmod a+x limarac/script/cibuild
-#- limarac/script/cibuild
+- chmod a+x limarac/script/cibuild
+- limarac/script/cibuild
 
 script:
 - Rscript limarac/R/build.R
  
 after_success:
-- github_token: $GITHUB_TOKEN
 - chmod a+x limarac/script/afterbuild
 - limarac/script/afterbuild  
