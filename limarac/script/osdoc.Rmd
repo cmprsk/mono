@@ -30,7 +30,7 @@ Na seção a seguir, são mostrados resultados de análises estatísticas concer
 ```{r code1, warning=F, message=F}
 require(pander)  
 require(survival)
-snc<-read.csv('../data/EA200-2010.csv')
+snc<-read.csv('../data/EA2007-2010.csv')
 attach(snc)
 require(DescTools)
 options(OutDec= ",")
