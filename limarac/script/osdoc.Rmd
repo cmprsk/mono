@@ -27,7 +27,7 @@ Na seção a seguir, são mostrados resultados de análises estatísticas concer
 
 ## Análises:
 
-```{r code1, warning=F, message=F}
+```{r code1, warning=T, message=T}
 require(pander)  
 require(survival)
 snc<-read.csv('../data/EA2007-2010.csv')
